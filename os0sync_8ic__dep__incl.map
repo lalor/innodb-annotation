@@ -1,0 +1,11 @@
+<map id="include/os0sync.ic" name="include/os0sync.ic">
+<area shape="rect" id="node3" href="$os0sync_8h.html" title="include/os0sync.h" alt="" coords="304,83,437,111"/>
+<area shape="rect" id="node5" href="$ut0ut_8h.html" title="include/ut0ut.h" alt="" coords="5,161,123,189"/>
+<area shape="rect" id="node7" href="$os0once_8h.html" title="include/os0once.h" alt="" coords="16,238,152,266"/>
+<area shape="rect" id="node9" href="$ut0mem_8h.html" title="include/ut0mem.h" alt="" coords="248,161,387,189"/>
+<area shape="rect" id="node11" href="$sync0sync_8h.html" title="include/sync0sync.h" alt="" coords="268,238,417,266"/>
+<area shape="rect" id="node13" href="$sync0rw_8h.html" title="include/sync0rw.h" alt="" coords="171,315,304,343"/>
+<area shape="rect" id="node15" href="$srv0srv_8h.html" title="include/srv0srv.h" alt="" coords="383,315,511,343"/>
+<area shape="rect" id="node19" href="$ut0wqueue_8h.html" title="include/ut0wqueue.h" alt="" coords="512,161,664,189"/>
+<area shape="rect" id="node23" href="$dict0stats__bg_8h.html" title="include/dict0stats_bg.h" alt="" coords="688,161,856,189"/>
+</map>

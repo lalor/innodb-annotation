@@ -1,0 +1,16 @@
+<map id="dict_table_t" name="dict_table_t">
+<area shape="rect" id="node6" href="$structdict__index__t.html" title="dict_index_t" alt="" coords="1345,291,1444,319"/>
+<area shape="rect" id="node37" href="$structut__list__node.html" title="ut_list_node\&lt; dict\l_table_t \&gt;" alt="" coords="1327,439,1463,483"/>
+<area shape="rect" id="node2" href="$structut__list__base.html" title="ut_list_base\&lt; ib_lock_t \&gt;" alt="" coords="729,573,911,601"/>
+<area shape="rect" id="node4" href="$structut__list__base.html" title="ut_list_base\&lt; dict\l_index_t \&gt;" alt="" coords="1597,473,1733,517"/>
+<area shape="rect" id="node31" href="$structtrx__t.html" title="trx_t" alt="" coords="1640,291,1691,319"/>
+<area shape="rect" id="node44" href="$structlock__t.html" title="lock_t" alt="" coords="1803,291,1861,319"/>
+<area shape="rect" id="node9" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="192,175,331,203"/>
+<area shape="rect" id="node15" href="$structfts__t.html" title="fts_t" alt="" coords="795,355,845,383"/>
+<area shape="rect" id="node24" href="$structfts__cache__t.html" title="fts_cache_t" alt="" coords="508,405,601,433"/>
+<area shape="rect" id="node11" href="$structrw__lock__t.html" title="rw_lock_t" alt="" coords="221,481,301,509"/>
+<area shape="rect" id="node13" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="5,377,99,405"/>
+<area shape="rect" id="node19" href="$structib__wqueue__t.html" title="ib_wqueue_t" alt="" coords="367,301,468,329"/>
+<area shape="rect" id="node17" href="$structib__vector__t.html" title="ib_vector_t" alt="" coords="216,622,307,650"/>
+<area shape="rect" id="node41" href="$structdict__col__t.html" title="dict_col_t" alt="" coords="779,470,861,498"/>
+</map>

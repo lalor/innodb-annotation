@@ -1,0 +1,10 @@
+<map id="for_node_t" name="for_node_t">
+<area shape="rect" id="node2" href="$structque__common__t.html" title="que_common_t" alt="" coords="42,99,165,127"/>
+<area shape="rect" id="node6" href="$structsym__node__t.html" title="sym_node_t" alt="" coords="311,202,410,230"/>
+<area shape="rect" id="node13" href="$structsel__node__t.html" title="sel_node_t" alt="" coords="191,337,282,365"/>
+<area shape="rect" id="node4" href="$structdfield__t.html" title="dfield_t" alt="" coords="70,6,137,34"/>
+<area shape="rect" id="node19" href="$structut__list__node.html" title="ut_list_node\&lt; sym_node_t \&gt;" alt="" coords="395,337,601,365"/>
+<area shape="rect" id="node8" href="$structsym__tab__t.html" title="sym_tab_t" alt="" coords="201,99,289,127"/>
+<area shape="rect" id="node11" href="$structdict__table__t.html" title="dict_table_t" alt="" coords="313,99,409,127"/>
+<area shape="rect" id="node17" href="$structsel__buf__t.html" title="sel_buf_t" alt="" coords="433,99,510,127"/>
+</map>

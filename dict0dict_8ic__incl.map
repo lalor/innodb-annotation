@@ -1,0 +1,21 @@
+<map id="include/dict0dict.ic" name="include/dict0dict.ic">
+<area shape="rect" id="node3" href="$data0type_8h.html" title="data0type.h" alt="" coords="1272,83,1371,111"/>
+<area shape="rect" id="node9" href="$dict0load_8h.html" title="dict0load.h" alt="" coords="701,238,792,266"/>
+<area shape="rect" id="node27" href="$rem0types_8h.html" title="rem0types.h" alt="" coords="1035,393,1136,421"/>
+<area shape="rect" id="node33" href="$sync0rw_8h.html" title="sync0rw.h" alt="" coords="744,393,827,421"/>
+<area shape="rect" id="node39" href="$fsp0fsp_8h.html" title="fsp0fsp.h" alt="" coords="315,83,395,111"/>
+<area shape="rect" id="node60" href="$srv0srv_8h.html" title="srv0srv.h" alt="" coords="600,238,677,266"/>
+<area shape="rect" id="node5" href="$univ_8i.html" title="univ.i" alt="" coords="552,470,605,498"/>
+<area shape="rect" id="node7" href="$data0type_8ic.html" title="data0type.ic" alt="" coords="1323,161,1424,189"/>
+<area shape="rect" id="node12" href="$dict0types_8h.html" title="dict0types.h" alt="" coords="1040,470,1139,498"/>
+<area shape="rect" id="node14" href="$trx0types_8h.html" title="trx0types.h" alt="" coords="515,315,608,343"/>
+<area shape="rect" id="node16" href="$ut0byte_8h.html" title="ut0byte.h" alt="" coords="472,393,555,421"/>
+<area shape="rect" id="node20" href="$mem0mem_8h.html" title="mem0mem.h" alt="" coords="331,315,440,343"/>
+<area shape="rect" id="node24" href="$btr0types_8h.html" title="btr0types.h" alt="" coords="885,315,979,343"/>
+<area shape="rect" id="node36" href="$dict0load_8ic.html" title="dict0load.ic" alt="" coords="1003,315,1096,343"/>
+<area shape="rect" id="node29" href="$page0types_8h.html" title="page0types.h" alt="" coords="901,393,1011,421"/>
+<area shape="rect" id="node42" href="$mtr0mtr_8h.html" title="mtr0mtr.h" alt="" coords="343,238,428,266"/>
+<area shape="rect" id="node49" href="$fut0lst_8h.html" title="fut0lst.h" alt="" coords="280,161,355,189"/>
+<area shape="rect" id="node55" href="$fsp0types_8h_source.html" title="fsp0types.h" alt="" coords="43,238,139,266"/>
+<area shape="rect" id="node58" href="$fsp0fsp_8ic.html" title="fsp0fsp.ic" alt="" coords="429,161,512,189"/>
+</map>

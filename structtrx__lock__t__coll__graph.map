@@ -1,0 +1,14 @@
+<map id="trx_lock_t" name="trx_lock_t">
+<area shape="rect" id="node2" href="$structut__list__base.html" title="ut_list_base\&lt; ib_lock_t \&gt;" alt="" coords="588,269,769,297"/>
+<area shape="rect" id="node4" href="$structib__vector__t.html" title="ib_vector_t" alt="" coords="633,319,724,347"/>
+<area shape="rect" id="node6" href="$structib__alloc__t.html" title="ib_alloc_t" alt="" coords="321,269,401,297"/>
+<area shape="rect" id="node9" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="5,349,144,377"/>
+<area shape="rect" id="node11" href="$structut__list__base.html" title="ut_list_base\&lt; mem_block_t \&gt;" alt="" coords="255,319,468,347"/>
+<area shape="rect" id="node14" href="$structut__list__node.html" title="ut_list_node\&lt; mem_block_t \&gt;" alt="" coords="255,446,468,474"/>
+<area shape="rect" id="node27" href="$structque__fork__t.html" title="que_fork_t" alt="" coords="317,146,405,174"/>
+<area shape="rect" id="node17" href="$structque__thr__t.html" title="que_thr_t" alt="" coords="637,99,720,127"/>
+<area shape="rect" id="node19" href="$structut__list__node.html" title="ut_list_node\&lt; que_thr_t \&gt;" alt="" coords="897,139,1087,167"/>
+<area shape="rect" id="node24" href="$structsrv__slot__t.html" title="srv_slot_t" alt="" coords="951,14,1033,42"/>
+<area shape="rect" id="node22" href="$structque__common__t.html" title="que_common_t" alt="" coords="13,85,136,113"/>
+<area shape="rect" id="node33" href="$structlock__t.html" title="lock_t" alt="" coords="649,421,708,449"/>
+</map>

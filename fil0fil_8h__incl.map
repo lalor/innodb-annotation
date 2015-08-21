@@ -1,0 +1,20 @@
+<map id="include/fil0fil.h" name="include/fil0fil.h">
+<area shape="rect" id="node3" href="$univ_8i.html" title="univ.i" alt="" coords="660,393,713,421"/>
+<area shape="rect" id="node36" href="$dict0types_8h.html" title="dict0types.h" alt="" coords="985,83,1084,111"/>
+<area shape="rect" id="node38" href="$ut0byte_8h.html" title="ut0byte.h" alt="" coords="688,161,771,189"/>
+<area shape="rect" id="node43" href="$os0file_8h.html" title="os0file.h" alt="" coords="507,238,581,266"/>
+<area shape="rect" id="node53" href="$sync0rw_8h.html" title="sync0rw.h" alt="" coords="985,238,1068,266"/>
+<area shape="rect" id="node68" href="$ibuf0types_8h.html" title="ibuf0types.h" alt="" coords="1108,83,1207,111"/>
+<area shape="rect" id="node70" href="$log0log_8h.html" title="log0log.h" alt="" coords="819,83,899,111"/>
+<area shape="rect" id="node19" href="$ut0dbg_8h.html" title="ut0dbg.h" alt="" coords="417,470,495,498"/>
+<area shape="rect" id="node22" href="$ut0ut_8h.html" title="ut0ut.h" alt="" coords="129,470,196,498"/>
+<area shape="rect" id="node25" href="$db0err_8h.html" title="db0err.h" alt="" coords="484,547,559,575"/>
+<area shape="rect" id="node27" href="$os0sync_8h.html" title="os0sync.h" alt="" coords="1097,547,1183,575"/>
+<area shape="rect" id="node30" href="$ut0lst_8h.html" title="ut0lst.h" alt="" coords="1185,625,1255,653"/>
+<area shape="rect" id="node41" href="$ut0byte_8ic.html" title="ut0byte.ic" alt="" coords="635,238,720,266"/>
+<area shape="rect" id="node50" href="$os0file_8ic.html" title="os0file.ic" alt="" coords="643,315,720,343"/>
+<area shape="rect" id="node57" href="$ut0counter_8h.html" title="ut0counter.h" alt="" coords="845,315,947,343"/>
+<area shape="rect" id="node60" href="$sync0sync_8h.html" title="sync0sync.h" alt="" coords="1021,315,1120,343"/>
+<area shape="rect" id="node66" href="$sync0rw_8ic.html" title="sync0rw.ic" alt="" coords="1195,315,1280,343"/>
+<area shape="rect" id="node77" href="$log0log_8ic.html" title="log0log.ic" alt="" coords="581,161,664,189"/>
+</map>

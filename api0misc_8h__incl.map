@@ -1,0 +1,19 @@
+<map id="include/api0misc.h" name="include/api0misc.h">
+<area shape="rect" id="node3" href="$univ_8i.html" title="univ.i" alt="" coords="430,470,483,498"/>
+<area shape="rect" id="node30" href="$os0file_8h.html" title="os0file.h" alt="" coords="154,315,228,343"/>
+<area shape="rect" id="node40" href="$que0que_8h.html" title="que0que.h" alt="" coords="707,83,798,111"/>
+<area shape="rect" id="node49" href="$trx0trx_8h.html" title="trx0trx.h" alt="" coords="598,238,672,266"/>
+<area shape="rect" id="node19" href="$ut0dbg_8h.html" title="ut0dbg.h" alt="" coords="712,547,790,575"/>
+<area shape="rect" id="node22" href="$ut0ut_8h.html" title="ut0ut.h" alt="" coords="152,547,219,575"/>
+<area shape="rect" id="node25" href="$db0err_8h.html" title="db0err.h" alt="" coords="183,625,258,653"/>
+<area shape="rect" id="node37" href="$os0file_8ic.html" title="os0file.ic" alt="" coords="190,393,267,421"/>
+<area shape="rect" id="node43" href="$data0data_8h.html" title="data0data.h" alt="" coords="719,393,818,421"/>
+<area shape="rect" id="node46" href="$dict0types_8h.html" title="dict0types.h" alt="" coords="831,470,930,498"/>
+<area shape="rect" id="node53" href="$usr0types_8h.html" title="usr0types.h" alt="" coords="498,315,594,343"/>
+<area shape="rect" id="node55" href="$que0types_8h.html" title="que0types.h" alt="" coords="854,315,955,343"/>
+<area shape="rect" id="node59" href="$trx0roll_8h.html" title="trx0roll.h" alt="" coords="443,161,520,189"/>
+<area shape="rect" id="node63" href="$srv0srv_8h.html" title="srv0srv.h" alt="" coords="866,238,943,266"/>
+<area shape="rect" id="node69" href="$row0types_8h.html" title="row0types.h" alt="" coords="747,161,846,189"/>
+<area shape="rect" id="node71" href="$pars0types_8h.html" title="pars0types.h" alt="" coords="870,161,974,189"/>
+<area shape="rect" id="node73" href="$que0que_8ic.html" title="que0que.ic" alt="" coords="998,161,1088,189"/>
+</map>

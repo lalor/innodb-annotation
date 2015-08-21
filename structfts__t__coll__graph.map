@@ -1,0 +1,15 @@
+<map id="fts_t" name="fts_t">
+<area shape="rect" id="node2" href="$structib__vector__t.html" title="ib_vector_t" alt="" coords="403,365,493,393"/>
+<area shape="rect" id="node25" href="$structfts__cache__t.html" title="fts_cache_t" alt="" coords="752,395,845,423"/>
+<area shape="rect" id="node4" href="$structib__alloc__t.html" title="ib_alloc_t" alt="" coords="183,419,263,447"/>
+<area shape="rect" id="node27" href="$structfts__stopword__t.html" title="fts_stopword_t" alt="" coords="391,415,505,443"/>
+<area shape="rect" id="node7" href="$structib__wqueue__t.html" title="ib_wqueue_t" alt="" coords="397,41,499,69"/>
+<area shape="rect" id="node9" href="$structos__event.html" title="os_event" alt="" coords="5,167,85,195"/>
+<area shape="rect" id="node13" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="176,167,269,195"/>
+<area shape="rect" id="node36" href="$structrw__lock__t.html" title="rw_lock_t" alt="" coords="408,270,488,298"/>
+<area shape="rect" id="node11" href="$structib__list__t.html" title="ib_list_t" alt="" coords="188,50,257,78"/>
+<area shape="rect" id="node16" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="379,705,517,733"/>
+<area shape="rect" id="node18" href="$structut__list__base.html" title="ut_list_base\&lt; mem_block_t \&gt;" alt="" coords="692,647,905,675"/>
+<area shape="rect" id="node21" href="$structut__list__node.html" title="ut_list_node\&lt; mem_block_t \&gt;" alt="" coords="692,754,905,782"/>
+<area shape="rect" id="node33" href="$structfts__sync__t.html" title="fts_sync_t" alt="" coords="405,466,491,494"/>
+</map>

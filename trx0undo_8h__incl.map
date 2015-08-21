@@ -1,0 +1,31 @@
+<map id="include/trx0undo.h" name="include/trx0undo.h">
+<area shape="rect" id="node3" href="$univ_8i.html" title="univ.i" alt="" coords="828,779,881,807"/>
+<area shape="rect" id="node28" href="$trx0types_8h.html" title="trx0types.h" alt="" coords="43,238,136,266"/>
+<area shape="rect" id="node33" href="$mtr0mtr_8h.html" title="mtr0mtr.h" alt="" coords="1219,315,1304,343"/>
+<area shape="rect" id="node62" href="$page0types_8h.html" title="page0types.h" alt="" coords="941,393,1051,421"/>
+<area shape="rect" id="node77" href="$trx0sys_8h.html" title="trx0sys.h" alt="" coords="569,161,649,189"/>
+<area shape="rect" id="node124" href="$trx0xa_8h_source.html" title="trx0xa.h" alt="" coords="1608,83,1683,111"/>
+<area shape="rect" id="node126" href="$trx0undo_8ic.html" title="trx0undo.ic" alt="" coords="1163,83,1256,111"/>
+<area shape="rect" id="node19" href="$ut0dbg_8h.html" title="ut0dbg.h" alt="" coords="960,857,1037,885"/>
+<area shape="rect" id="node22" href="$ut0ut_8h.html" title="ut0ut.h" alt="" coords="1112,857,1179,885"/>
+<area shape="rect" id="node25" href="$db0err_8h.html" title="db0err.h" alt="" coords="1072,934,1147,962"/>
+<area shape="rect" id="node30" href="$ut0byte_8h.html" title="ut0byte.h" alt="" coords="657,547,740,575"/>
+<area shape="rect" id="node36" href="$mem0mem_8h.html" title="mem0mem.h" alt="" coords="1357,470,1467,498"/>
+<area shape="rect" id="node47" href="$dyn0dyn_8h.html" title="dyn0dyn.h" alt="" coords="1480,393,1568,421"/>
+<area shape="rect" id="node52" href="$buf0types_8h.html" title="buf0types.h" alt="" coords="821,393,917,421"/>
+<area shape="rect" id="node54" href="$sync0rw_8h.html" title="sync0rw.h" alt="" coords="1069,547,1152,575"/>
+<area shape="rect" id="node60" href="$mtr0types_8h.html" title="mtr0types.h" alt="" coords="1021,470,1120,498"/>
+<area shape="rect" id="node66" href="$log0log_8h.html" title="log0log.h" alt="" coords="867,470,947,498"/>
+<area shape="rect" id="node73" href="$mtr0mtr_8ic.html" title="mtr0mtr.ic" alt="" coords="1195,470,1283,498"/>
+<area shape="rect" id="node40" href="$sync0sync_8h.html" title="sync0sync.h" alt="" coords="1108,625,1207,653"/>
+<area shape="rect" id="node43" href="$ut0lst_8h.html" title="ut0lst.h" alt="" coords="1036,702,1105,730"/>
+<area shape="rect" id="node81" href="$fsp0types_8h_source.html" title="fsp0types.h" alt="" coords="312,315,408,343"/>
+<area shape="rect" id="node84" href="$fil0fil_8h.html" title="fil0fil.h" alt="" coords="584,393,645,421"/>
+<area shape="rect" id="node91" href="$buf0buf_8h.html" title="buf0buf.h" alt="" coords="736,315,816,343"/>
+<area shape="rect" id="node105" href="$ut0bh_8h.html" title="ut0bh.h" alt="" coords="183,625,252,653"/>
+<area shape="rect" id="node108" href="$read0types_8h.html" title="read0types.h" alt="" coords="427,238,533,266"/>
+<area shape="rect" id="node111" href="$fsp0fsp_8h.html" title="fsp0fsp.h" alt="" coords="608,238,688,266"/>
+<area shape="rect" id="node118" href="$trx0sys_8ic.html" title="trx0sys.ic" alt="" coords="1236,238,1319,266"/>
+<area shape="rect" id="node120" href="$data0type_8h.html" title="data0type.h" alt="" coords="1429,315,1528,343"/>
+<area shape="rect" id="node129" href="$page0page_8h.html" title="page0page.h" alt="" coords="1095,161,1201,189"/>
+</map>

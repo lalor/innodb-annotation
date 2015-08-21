@@ -1,0 +1,16 @@
+<map id="dict_sys_t" name="dict_sys_t">
+<area shape="rect" id="node2" href="$structhash__table__t.html" title="hash_table_t" alt="" coords="627,573,731,601"/>
+<area shape="rect" id="node4" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="5,157,144,185"/>
+<area shape="rect" id="node13" href="$structdict__table__t.html" title="dict_table_t" alt="" coords="904,289,1000,317"/>
+<area shape="rect" id="node19" href="$structfts__t.html" title="fts_t" alt="" coords="365,114,416,142"/>
+<area shape="rect" id="node24" href="$structtrx__t.html" title="trx_t" alt="" coords="365,218,416,246"/>
+<area shape="rect" id="node6" href="$structhash__cell__t.html" title="hash_cell_t" alt="" coords="344,597,437,625"/>
+<area shape="rect" id="node8" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="28,397,121,425"/>
+<area shape="rect" id="node10" href="$structrw__lock__t.html" title="rw_lock_t" alt="" coords="351,473,431,501"/>
+<area shape="rect" id="node28" href="$structut__list__node.html" title="ut_list_node\&lt; dict\l_table_t \&gt;" alt="" coords="1143,255,1279,299"/>
+<area shape="rect" id="node39" href="$structut__list__base.html" title="ut_list_base\&lt; dict\l_table_t \&gt;" alt="" coords="1143,343,1279,387"/>
+<area shape="rect" id="node15" href="$structut__list__base.html" title="ut_list_base\&lt; ib_lock_t \&gt;" alt="" coords="588,290,769,318"/>
+<area shape="rect" id="node17" href="$structut__list__base.html" title="ut_list_base\&lt; dict\l_index_t \&gt;" alt="" coords="611,455,747,499"/>
+<area shape="rect" id="node35" href="$structlock__t.html" title="lock_t" alt="" coords="649,175,708,203"/>
+<area shape="rect" id="node32" href="$structdict__col__t.html" title="dict_col_t" alt="" coords="637,10,720,38"/>
+</map>

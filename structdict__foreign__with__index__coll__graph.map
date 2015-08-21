@@ -1,0 +1,10 @@
+<map id="dict_foreign_with_index" name="dict_foreign_with_index">
+<area shape="rect" id="node2" href="$structdict__index__t.html" title="dict_index_t" alt="" coords="507,161,605,189"/>
+<area shape="rect" id="node15" href="$structut__list__node.html" title="ut_list_node\&lt; dict\l_index_t \&gt;" alt="" coords="729,175,865,219"/>
+<area shape="rect" id="node4" href="$structzip__pad__info__t.html" title="zip_pad_info_t" alt="" coords="268,5,380,33"/>
+<area shape="rect" id="node6" href="$structdict__table__t.html" title="dict_table_t" alt="" coords="276,131,372,159"/>
+<area shape="rect" id="node8" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="5,82,144,110"/>
+<area shape="rect" id="node10" href="$structrw__lock__t.html" title="rw_lock_t" alt="" coords="35,153,115,181"/>
+<area shape="rect" id="node13" href="$structdict__field__t.html" title="dict_field_t" alt="" coords="279,246,369,274"/>
+<area shape="rect" id="node19" href="$structbtr__search__t.html" title="btr_search_t" alt="" coords="273,297,375,325"/>
+</map>

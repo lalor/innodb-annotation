@@ -1,0 +1,15 @@
+<map id="include/read0types.h" name="include/read0types.h">
+<area shape="rect" id="node3" href="$trx0trx_8h.html" title="include/trx0trx.h" alt="" coords="299,83,424,111"/>
+<area shape="rect" id="node11" href="$lock0lock_8h.html" title="include/lock0lock.h" alt="" coords="5,547,147,575"/>
+<area shape="rect" id="node20" href="$trx0sys_8h.html" title="include/trx0sys.h" alt="" coords="425,238,553,266"/>
+<area shape="rect" id="node26" href="$read0read_8h.html" title="include/read0read.h" alt="" coords="629,161,779,189"/>
+<area shape="rect" id="node32" href="$row0row_8h.html" title="include/row0row.h" alt="" coords="679,393,812,421"/>
+<area shape="rect" id="node36" href="$row0vers_8h.html" title="include/row0vers.h" alt="" coords="660,238,799,266"/>
+<area shape="rect" id="node40" href="$row0merge_8h.html" title="include/row0merge.h" alt="" coords="904,83,1059,111"/>
+<area shape="rect" id="node5" href="$que0que_8h.html" title="include/que0que.h" alt="" coords="307,393,445,421"/>
+<area shape="rect" id="node7" href="$api0misc_8h.html" title="include/api0misc.h" alt="" coords="263,470,401,498"/>
+<area shape="rect" id="node9" href="$lock0lock_8ic.html" title="include/lock0lock.ic" alt="" coords="465,470,607,498"/>
+<area shape="rect" id="node13" href="$row0upd_8ic.html" title="include/row0upd.ic" alt="" coords="115,625,253,653"/>
+<area shape="rect" id="node15" href="$trx0roll_8h.html" title="include/trx0roll.h" alt="" coords="323,315,448,343"/>
+<area shape="rect" id="node18" href="$trx0sys_8ic.html" title="include/trx0sys.ic" alt="" coords="424,161,555,189"/>
+</map>

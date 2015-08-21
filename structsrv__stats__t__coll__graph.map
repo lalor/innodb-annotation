@@ -1,0 +1,12 @@
+<map id="srv_stats_t" name="srv_stats_t">
+<area shape="rect" id="node2" href="$classib__counter__t.html" title="ib_counter_t\&lt; ulint,\l 1, single_indexer_t \&gt;" alt="" coords="323,161,483,205"/>
+<area shape="rect" id="node4" href="$structsingle__indexer__t.html" title="single_indexer_t\&lt; ulint, N \&gt;" alt="" coords="5,169,205,197"/>
+<area shape="rect" id="node6" href="$classib__counter__t.html" title="ib_counter_t\&lt; ib_int64\l_t, 1, single_indexer_t \&gt;" alt="" coords="315,227,491,271"/>
+<area shape="rect" id="node8" href="$structsingle__indexer__t.html" title="single_indexer_t\&lt; ib\l_int64_t, N \&gt;" alt="" coords="31,227,180,271"/>
+<area shape="rect" id="node10" href="$classib__counter__t.html" title="ib_counter_t\&lt; ulint,\l 64 \&gt;" alt="" coords="329,303,476,347"/>
+<area shape="rect" id="node12" href="$structthread__id__indexer__t.html" title="thread_id_indexer_t\l\&lt; ulint, N \&gt;" alt="" coords="32,303,179,347"/>
+<area shape="rect" id="node14" href="$classib__counter__t.html" title="ib_counter_t\&lt; lsn_t,\l 1, single_indexer_t \&gt;" alt="" coords="323,370,483,414"/>
+<area shape="rect" id="node16" href="$structsingle__indexer__t.html" title="single_indexer_t\&lt; lsn\l_t, N \&gt;" alt="" coords="27,370,184,414"/>
+<area shape="rect" id="node18" href="$classib__counter__t.html" title="ib_counter_t\&lt; lint,\l 1, single_indexer_t \&gt;" alt="" coords="323,442,483,486"/>
+<area shape="rect" id="node20" href="$structsingle__indexer__t.html" title="single_indexer_t\&lt; lint, N \&gt;" alt="" coords="9,450,201,478"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="include/dict0mem.h" name="include/dict0mem.h">
+<area shape="rect" id="node3" href="$dict0dict_8h.html" title="include/dict0dict.h" alt="" coords="849,83,985,111"/>
+<area shape="rect" id="node22" href="$btr0sea_8ic.html" title="include/btr0sea.ic" alt="" coords="5,238,139,266"/>
+<area shape="rect" id="node45" href="$dict0mem_8ic.html" title="include/dict0mem.ic" alt="" coords="1009,83,1159,111"/>
+<area shape="rect" id="node49" href="$ibuf0ibuf_8h.html" title="include/ibuf0ibuf.h" alt="" coords="1183,83,1319,111"/>
+<area shape="rect" id="node5" href="$rem0rec_8ic.html" title="include/rem0rec.ic" alt="" coords="1980,161,2119,189"/>
+<area shape="rect" id="node7" href="$btr0btr_8h.html" title="include/btr0btr.h" alt="" coords="249,161,375,189"/>
+<area shape="rect" id="node9" href="$btr0pcur_8h.html" title="include/btr0pcur.h" alt="" coords="163,238,299,266"/>
+<area shape="rect" id="node11" href="$page0page_8h.html" title="include/page0page.h" alt="" coords="449,161,604,189"/>
+<area shape="rect" id="node13" href="$lock0lock_8ic.html" title="include/lock0lock.ic" alt="" coords="341,238,483,266"/>
+<area shape="rect" id="node15" href="$row0vers_8ic.html" title="include/row0vers.ic" alt="" coords="623,238,764,266"/>
+<area shape="rect" id="node17" href="$rem0cmp_8h.html" title="include/rem0cmp.h" alt="" coords="628,161,772,189"/>
+<area shape="rect" id="node19" href="$btr0cur_8h.html" title="include/btr0cur.h" alt="" coords="47,161,175,189"/>
+<area shape="rect" id="node24" href="$btr0sea_8h.html" title="include/btr0sea.h" alt="" coords="1048,315,1179,343"/>
+<area shape="rect" id="node29" href="$dict0boot_8h.html" title="include/dict0boot.h" alt="" coords="847,161,988,189"/>
+<area shape="rect" id="node31" href="$dict0crea_8h.html" title="include/dict0crea.h" alt="" coords="1012,161,1153,189"/>
+<area shape="rect" id="node33" href="$dict0priv_8ic.html" title="include/dict0priv.ic" alt="" coords="1177,161,1316,189"/>
+<area shape="rect" id="node35" href="$dict0stats_8ic.html" title="include/dict0stats.ic" alt="" coords="1340,161,1487,189"/>
+<area shape="rect" id="node37" href="$fts0priv_8h.html" title="include/fts0priv.h" alt="" coords="1511,161,1639,189"/>
+<area shape="rect" id="node40" href="$row0row_8ic.html" title="include/row0row.ic" alt="" coords="1663,161,1799,189"/>
+<area shape="rect" id="node43" href="$row0log_8ic.html" title="include/row0log.ic" alt="" coords="1823,161,1956,189"/>
+</map>

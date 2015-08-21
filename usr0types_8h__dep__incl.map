@@ -1,0 +1,19 @@
+<map id="include/usr0types.h" name="include/usr0types.h">
+<area shape="rect" id="node3" href="$trx0trx_8h.html" title="include/trx0trx.h" alt="" coords="787,83,912,111"/>
+<area shape="rect" id="node5" href="$que0que_8h.html" title="include/que0que.h" alt="" coords="817,238,956,266"/>
+<area shape="rect" id="node29" href="$pars0opt_8h.html" title="include/pars0opt.h" alt="" coords="295,315,433,343"/>
+<area shape="rect" id="node34" href="$usr0sess_8h.html" title="include/usr0sess.h" alt="" coords="936,83,1075,111"/>
+<area shape="rect" id="node36" href="$pars0sym_8h.html" title="include/pars0sym.h" alt="" coords="180,161,327,189"/>
+<area shape="rect" id="node44" href="$pars0pars_8h.html" title="include/pars0pars.h" alt="" coords="9,161,156,189"/>
+<area shape="rect" id="node7" href="$api0misc_8h.html" title="include/api0misc.h" alt="" coords="1059,315,1197,343"/>
+<area shape="rect" id="node15" href="$lock0lock_8ic.html" title="include/lock0lock.ic" alt="" coords="816,315,957,343"/>
+<area shape="rect" id="node17" href="$trx0roll_8h.html" title="include/trx0roll.h" alt="" coords="993,161,1119,189"/>
+<area shape="rect" id="node20" href="$trx0sys_8ic.html" title="include/trx0sys.ic" alt="" coords="625,161,756,189"/>
+<area shape="rect" id="node24" href="$read0read_8h.html" title="include/read0read.h" alt="" coords="401,161,551,189"/>
+<area shape="rect" id="node31" href="$row0upd_8ic.html" title="include/row0upd.ic" alt="" coords="780,161,919,189"/>
+<area shape="rect" id="node9" href="$eval0proc_8ic.html" title="include/eval0proc.ic" alt="" coords="28,315,175,343"/>
+<area shape="rect" id="node13" href="$fts0priv_8h.html" title="include/fts0priv.h" alt="" coords="595,315,723,343"/>
+<area shape="rect" id="node11" href="$eval0proc_8h.html" title="include/eval0proc.h" alt="" coords="29,393,173,421"/>
+<area shape="rect" id="node27" href="$row0sel_8h.html" title="include/row0sel.h" alt="" coords="401,238,532,266"/>
+<area shape="rect" id="node38" href="$eval0eval_8h.html" title="include/eval0eval.h" alt="" coords="33,238,175,266"/>
+</map>

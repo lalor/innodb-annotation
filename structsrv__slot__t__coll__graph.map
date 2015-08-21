@@ -1,0 +1,9 @@
+<map id="srv_slot_t" name="srv_slot_t">
+<area shape="rect" id="node9" href="$structque__thr__t.html" title="que_thr_t" alt="" coords="776,129,859,157"/>
+<area shape="rect" id="node2" href="$structos__event.html" title="os_event" alt="" coords="251,189,331,217"/>
+<area shape="rect" id="node4" href="$structut__list__node.html" title="ut_list_node\&lt; os_event_t \&gt;" alt="" coords="468,233,665,261"/>
+<area shape="rect" id="node7" href="$structos__fast__mutex__t.html" title="os_fast_mutex_t" alt="" coords="5,189,133,217"/>
+<area shape="rect" id="node11" href="$structut__list__node.html" title="ut_list_node\&lt; que_thr_t \&gt;" alt="" coords="961,43,1151,71"/>
+<area shape="rect" id="node17" href="$structque__fork__t.html" title="que_fork_t" alt="" coords="1012,175,1100,203"/>
+<area shape="rect" id="node14" href="$structque__common__t.html" title="que_common_t" alt="" coords="505,178,628,206"/>
+</map>

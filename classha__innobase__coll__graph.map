@@ -1,0 +1,15 @@
+<map id="ha_innobase" name="ha_innobase">
+<area shape="rect" id="node2" href="$structst__innobase__share.html" title="st_innobase_share" alt="" coords="975,95,1116,123"/>
+<area shape="rect" id="node4" href="$structinnodb__idx__translate__t.html" title="innodb_idx_translate_t" alt="" coords="663,175,828,203"/>
+<area shape="rect" id="node6" href="$structdict__index__t.html" title="dict_index_t" alt="" coords="256,415,355,443"/>
+<area shape="rect" id="node12" href="$structtrx__t.html" title="trx_t" alt="" coords="559,309,609,337"/>
+<area shape="rect" id="node22" href="$structrow__prebuilt__t.html" title="row_prebuilt_t" alt="" coords="1447,357,1556,385"/>
+<area shape="rect" id="node24" href="$structupd__node__t.html" title="upd_node_t" alt="" coords="1167,509,1263,537"/>
+<area shape="rect" id="node44" href="$structins__node__t.html" title="ins_node_t" alt="" coords="1169,727,1260,755"/>
+<area shape="rect" id="node8" href="$structdict__table__t.html" title="dict_table_t" alt="" coords="853,581,949,609"/>
+<area shape="rect" id="node10" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="5,415,144,443"/>
+<area shape="rect" id="node16" href="$structque__fork__t.html" title="que_fork_t" alt="" coords="857,218,945,246"/>
+<area shape="rect" id="node32" href="$structbtr__pcur__t.html" title="btr_pcur_t" alt="" coords="859,338,944,366"/>
+<area shape="rect" id="node30" href="$structdtuple__t.html" title="dtuple_t" alt="" coords="864,773,939,801"/>
+<area shape="rect" id="node40" href="$structmysql__row__templ__t.html" title="mysql_row_templ_t" alt="" coords="1143,141,1287,169"/>
+</map>

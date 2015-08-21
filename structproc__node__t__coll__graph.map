@@ -1,0 +1,9 @@
+<map id="proc_node_t" name="proc_node_t">
+<area shape="rect" id="node2" href="$structsym__tab__t.html" title="sym_tab_t" alt="" coords="341,209,429,237"/>
+<area shape="rect" id="node8" href="$structque__fork__t.html" title="que_fork_t" alt="" coords="457,311,545,339"/>
+<area shape="rect" id="node20" href="$structsym__node__t.html" title="sym_node_t" alt="" coords="100,311,199,339"/>
+<area shape="rect" id="node4" href="$structut__list__base.html" title="ut_list_base\&lt; func\l_node_t \&gt;" alt="" coords="271,99,409,143"/>
+<area shape="rect" id="node6" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="495,6,633,34"/>
+<area shape="rect" id="node15" href="$structpars__info__t.html" title="pars_info_t" alt="" coords="519,107,609,135"/>
+<area shape="rect" id="node11" href="$structque__common__t.html" title="que_common_t" alt="" coords="5,209,128,237"/>
+</map>

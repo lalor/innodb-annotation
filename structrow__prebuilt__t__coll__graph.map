@@ -1,0 +1,19 @@
+<map id="row_prebuilt_t" name="row_prebuilt_t">
+<area shape="rect" id="node2" href="$structupd__node__t.html" title="upd_node_t" alt="" coords="1543,866,1639,894"/>
+<area shape="rect" id="node4" href="$structrow__ext__t.html" title="row_ext_t" alt="" coords="1249,939,1332,967"/>
+<area shape="rect" id="node6" href="$structque__common__t.html" title="que_common_t" alt="" coords="13,945,136,973"/>
+<area shape="rect" id="node19" href="$structque__fork__t.html" title="que_fork_t" alt="" coords="285,1070,373,1098"/>
+<area shape="rect" id="node23" href="$structsel__node__t.html" title="sel_node_t" alt="" coords="1245,838,1336,866"/>
+<area shape="rect" id="node26" href="$structsym__node__t.html" title="sym_node_t" alt="" coords="936,862,1035,890"/>
+<area shape="rect" id="node60" href="$structins__node__t.html" title="ins_node_t" alt="" coords="1545,349,1636,377"/>
+<area shape="rect" id="node9" href="$structdict__index__t.html" title="dict_index_t" alt="" coords="936,603,1035,631"/>
+<area shape="rect" id="node15" href="$structtrx__t.html" title="trx_t" alt="" coords="501,1102,552,1130"/>
+<area shape="rect" id="node36" href="$structdict__foreign__t.html" title="dict_foreign_t" alt="" coords="1237,785,1344,813"/>
+<area shape="rect" id="node11" href="$structdict__table__t.html" title="dict_table_t" alt="" coords="688,793,784,821"/>
+<area shape="rect" id="node13" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="5,514,144,542"/>
+<area shape="rect" id="node47" href="$structbtr__pcur__t.html" title="btr_pcur_t" alt="" coords="1248,1118,1333,1146"/>
+<area shape="rect" id="node42" href="$structupd__t.html" title="upd_t" alt="" coords="1261,670,1320,698"/>
+<area shape="rect" id="node45" href="$structdtuple__t.html" title="dtuple_t" alt="" coords="948,242,1023,270"/>
+<area shape="rect" id="node68" href="$structut__list__base.html" title="ut_list_base\&lt; dtuple_t \&gt;" alt="" coords="1201,273,1380,301"/>
+<area shape="rect" id="node56" href="$structmysql__row__templ__t.html" title="mysql_row_templ_t" alt="" coords="1519,1353,1663,1381"/>
+</map>

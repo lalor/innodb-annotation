@@ -1,0 +1,19 @@
+<map id="dict_index_t" name="dict_index_t">
+<area shape="rect" id="node10" href="$structut__list__base.html" title="ut_list_base\&lt; dict\l_index_t \&gt;" alt="" coords="1272,405,1408,449"/>
+<area shape="rect" id="node21" href="$structtrx__t.html" title="trx_t" alt="" coords="1153,146,1204,174"/>
+<area shape="rect" id="node35" href="$structlock__t.html" title="lock_t" alt="" coords="1495,226,1553,254"/>
+<area shape="rect" id="node43" href="$structut__list__node.html" title="ut_list_node\&lt; dict\l_index_t \&gt;" alt="" coords="1111,291,1247,335"/>
+<area shape="rect" id="node49" href="$structbuf__block__t.html" title="buf_block_t" alt="" coords="1132,579,1225,607"/>
+<area shape="rect" id="node2" href="$structzip__pad__info__t.html" title="zip_pad_info_t" alt="" coords="399,358,511,386"/>
+<area shape="rect" id="node4" href="$structos__fast__mutex__t.html" title="os_fast_mutex_t" alt="" coords="5,443,133,471"/>
+<area shape="rect" id="node17" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="280,519,373,547"/>
+<area shape="rect" id="node6" href="$structdict__table__t.html" title="dict_table_t" alt="" coords="1749,385,1845,413"/>
+<area shape="rect" id="node26" href="$structut__list__node.html" title="ut_list_node\&lt; dict\l_table_t \&gt;" alt="" coords="1964,377,2100,421"/>
+<area shape="rect" id="node8" href="$structut__list__base.html" title="ut_list_base\&lt; ib_lock_t \&gt;" alt="" coords="1433,11,1615,39"/>
+<area shape="rect" id="node13" href="$structfts__t.html" title="fts_t" alt="" coords="859,465,909,493"/>
+<area shape="rect" id="node15" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="536,201,675,229"/>
+<area shape="rect" id="node32" href="$structrw__lock__t.html" title="rw_lock_t" alt="" coords="565,555,645,583"/>
+<area shape="rect" id="node30" href="$structdict__col__t.html" title="dict_col_t" alt="" coords="285,654,368,682"/>
+<area shape="rect" id="node40" href="$structdict__field__t.html" title="dict_field_t" alt="" coords="560,411,651,439"/>
+<area shape="rect" id="node47" href="$structbtr__search__t.html" title="btr_search_t" alt="" coords="1473,545,1575,573"/>
+</map>

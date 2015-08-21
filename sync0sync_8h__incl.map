@@ -1,0 +1,15 @@
+<map id="include/sync0sync.h" name="include/sync0sync.h">
+<area shape="rect" id="node3" href="$univ_8i.html" title="univ.i" alt="" coords="929,238,983,266"/>
+<area shape="rect" id="node22" href="$os0thread_8h.html" title="os0thread.h" alt="" coords="32,393,131,421"/>
+<area shape="rect" id="node30" href="$os0sync_8h.html" title="os0sync.h" alt="" coords="1251,393,1336,421"/>
+<area shape="rect" id="node33" href="$ut0lst_8h.html" title="ut0lst.h" alt="" coords="1279,470,1348,498"/>
+<area shape="rect" id="node36" href="$sync0types_8h.html" title="sync0types.h" alt="" coords="1412,470,1519,498"/>
+<area shape="rect" id="node41" href="$ut0mem_8h.html" title="ut0mem.h" alt="" coords="919,161,1007,189"/>
+<area shape="rect" id="node51" href="$sync0arr_8h.html" title="sync0arr.h" alt="" coords="1113,83,1201,111"/>
+<area shape="rect" id="node59" href="$sync0sync_8ic.html" title="sync0sync.ic" alt="" coords="1523,83,1624,111"/>
+<area shape="rect" id="node19" href="$ut0dbg_8h.html" title="ut0dbg.h" alt="" coords="400,315,477,343"/>
+<area shape="rect" id="node25" href="$ut0ut_8h.html" title="ut0ut.h" alt="" coords="1128,315,1195,343"/>
+<area shape="rect" id="node28" href="$db0err_8h.html" title="db0err.h" alt="" coords="1089,393,1164,421"/>
+<area shape="rect" id="node47" href="$ut0mem_8ic.html" title="ut0mem.ic" alt="" coords="721,238,812,266"/>
+<area shape="rect" id="node57" href="$sync0arr_8ic.html" title="sync0arr.ic" alt="" coords="1231,161,1321,189"/>
+</map>

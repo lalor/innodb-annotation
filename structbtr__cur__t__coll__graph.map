@@ -1,0 +1,15 @@
+<map id="btr_cur_t" name="btr_cur_t">
+<area shape="rect" id="node27" href="$structbtr__pcur__t.html" title="btr_pcur_t" alt="" coords="351,566,436,594"/>
+<area shape="rect" id="node2" href="$structpage__cur__t.html" title="page_cur_t" alt="" coords="187,379,280,407"/>
+<area shape="rect" id="node4" href="$structbuf__block__t.html" title="buf_block_t" alt="" coords="187,286,280,314"/>
+<area shape="rect" id="node6" href="$structdict__index__t.html" title="dict_index_t" alt="" coords="184,193,283,221"/>
+<area shape="rect" id="node14" href="$structpurge__node__t.html" title="purge_node_t" alt="" coords="548,675,657,703"/>
+<area shape="rect" id="node8" href="$structdict__table__t.html" title="dict_table_t" alt="" coords="119,99,215,127"/>
+<area shape="rect" id="node10" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="193,6,332,34"/>
+<area shape="rect" id="node16" href="$structque__common__t.html" title="que_common_t" alt="" coords="609,286,732,314"/>
+<area shape="rect" id="node34" href="$structque__thr__t.html" title="que_thr_t" alt="" coords="580,379,663,407"/>
+<area shape="rect" id="node20" href="$structib__vector__t.html" title="ib_vector_t" alt="" coords="640,566,731,594"/>
+<area shape="rect" id="node23" href="$structupd__t.html" title="upd_t" alt="" coords="755,566,813,594"/>
+<area shape="rect" id="node25" href="$structdtuple__t.html" title="dtuple_t" alt="" coords="837,566,912,594"/>
+<area shape="rect" id="node31" href="$structbtr__path__t.html" title="btr_path_t" alt="" coords="417,379,505,407"/>
+</map>

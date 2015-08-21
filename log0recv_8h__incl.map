@@ -1,0 +1,18 @@
+<map id="include/log0recv.h" name="include/log0recv.h">
+<area shape="rect" id="node3" href="$univ_8i.html" title="univ.i" alt="" coords="655,393,708,421"/>
+<area shape="rect" id="node28" href="$ut0byte_8h.html" title="ut0byte.h" alt="" coords="207,238,289,266"/>
+<area shape="rect" id="node33" href="$buf0types_8h.html" title="buf0types.h" alt="" coords="1059,83,1155,111"/>
+<area shape="rect" id="node35" href="$hash0hash_8h.html" title="hash0hash.h" alt="" coords="455,83,559,111"/>
+<area shape="rect" id="node57" href="$log0log_8h.html" title="log0log.h" alt="" coords="720,83,800,111"/>
+<area shape="rect" id="node68" href="$log0recv_8ic.html" title="log0recv.ic" alt="" coords="896,238,984,266"/>
+<area shape="rect" id="node19" href="$ut0dbg_8h.html" title="ut0dbg.h" alt="" coords="787,470,864,498"/>
+<area shape="rect" id="node22" href="$ut0ut_8h.html" title="ut0ut.h" alt="" coords="939,470,1005,498"/>
+<area shape="rect" id="node25" href="$db0err_8h.html" title="db0err.h" alt="" coords="899,547,973,575"/>
+<area shape="rect" id="node31" href="$ut0byte_8ic.html" title="ut0byte.ic" alt="" coords="285,315,371,343"/>
+<area shape="rect" id="node38" href="$mem0mem_8h.html" title="mem0mem.h" alt="" coords="275,161,384,189"/>
+<area shape="rect" id="node42" href="$sync0sync_8h.html" title="sync0sync.h" alt="" coords="549,238,648,266"/>
+<area shape="rect" id="node50" href="$sync0rw_8h.html" title="sync0rw.h" alt="" coords="640,161,723,189"/>
+<area shape="rect" id="node55" href="$hash0hash_8ic.html" title="hash0hash.ic" alt="" coords="408,161,515,189"/>
+<area shape="rect" id="node45" href="$ut0lst_8h.html" title="ut0lst.h" alt="" coords="647,315,716,343"/>
+<area shape="rect" id="node64" href="$log0log_8ic.html" title="log0log.ic" alt="" coords="797,161,880,189"/>
+</map>

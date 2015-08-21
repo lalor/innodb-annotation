@@ -1,0 +1,9 @@
+<map id="roll_node_t" name="roll_node_t">
+<area shape="rect" id="node2" href="$structque__common__t.html" title="que_common_t" alt="" coords="350,99,473,127"/>
+<area shape="rect" id="node8" href="$structque__thr__t.html" title="que_thr_t" alt="" coords="370,193,453,221"/>
+<area shape="rect" id="node17" href="$structque__fork__t.html" title="que_fork_t" alt="" coords="549,318,637,346"/>
+<area shape="rect" id="node4" href="$structdfield__t.html" title="dfield_t" alt="" coords="378,6,445,34"/>
+<area shape="rect" id="node6" href="$structtrx__savept__t.html" title="trx_savept_t" alt="" coords="89,193,190,221"/>
+<area shape="rect" id="node10" href="$structut__list__node.html" title="ut_list_node\&lt; que_thr_t \&gt;" alt="" coords="180,318,369,346"/>
+<area shape="rect" id="node14" href="$structsrv__slot__t.html" title="srv_slot_t" alt="" coords="404,318,486,346"/>
+</map>

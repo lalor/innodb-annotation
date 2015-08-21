@@ -1,0 +1,9 @@
+<map id="ib_wqueue_t" name="ib_wqueue_t">
+<area shape="rect" id="node2" href="$structos__event.html" title="os_event" alt="" coords="265,214,345,242"/>
+<area shape="rect" id="node4" href="$structut__list__node.html" title="ut_list_node\&lt; os_event_t \&gt;" alt="" coords="497,142,695,170"/>
+<area shape="rect" id="node14" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="549,294,643,322"/>
+<area shape="rect" id="node7" href="$structos__fast__mutex__t.html" title="os_fast_mutex_t" alt="" coords="5,263,133,291"/>
+<area shape="rect" id="node9" href="$structib__list__t.html" title="ib_list_t" alt="" coords="561,77,631,105"/>
+<area shape="rect" id="node11" href="$structib__list__node__t.html" title="ib_list_node_t" alt="" coords="251,61,360,89"/>
+<area shape="rect" id="node17" href="$structut__list__node.html" title="ut_list_node\&lt; ib_mutex_t \&gt;" alt="" coords="789,335,989,363"/>
+</map>

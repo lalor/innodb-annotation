@@ -1,0 +1,22 @@
+<map id="include/ut0lst.h" name="include/ut0lst.h">
+<area shape="rect" id="node3" href="$os0sync_8h.html" title="include/os0sync.h" alt="" coords="592,83,725,111"/>
+<area shape="rect" id="node9" href="$dict0mem_8h.html" title="include/dict0mem.h" alt="" coords="636,470,783,498"/>
+<area shape="rect" id="node11" href="$dict0dict_8h.html" title="include/dict0dict.h" alt="" coords="585,547,721,575"/>
+<area shape="rect" id="node15" href="$mem0mem_8h.html" title="include/mem0mem.h" alt="" coords="915,393,1072,421"/>
+<area shape="rect" id="node17" href="$dyn0dyn_8h.html" title="include/dyn0dyn.h" alt="" coords="1185,470,1321,498"/>
+<area shape="rect" id="node21" href="$trx0sys_8h.html" title="include/trx0sys.h" alt="" coords="857,470,985,498"/>
+<area shape="rect" id="node23" href="$mtr0log_8ic.html" title="include/mtr0log.ic" alt="" coords="1099,547,1232,575"/>
+<area shape="rect" id="node27" href="$sync0sync_8h.html" title="include/sync0sync.h" alt="" coords="397,315,547,343"/>
+<area shape="rect" id="node30" href="$log0log_8h.html" title="include/log0log.h" alt="" coords="228,470,356,498"/>
+<area shape="rect" id="node34" href="$sync0rw_8h.html" title="include/sync0rw.h" alt="" coords="225,393,359,421"/>
+<area shape="rect" id="node42" href="$sync0arr_8h.html" title="include/sync0arr.h" alt="" coords="431,238,567,266"/>
+<area shape="rect" id="node57" href="$mem0pool_8h.html" title="include/mem0pool.h" alt="" coords="1447,83,1599,111"/>
+<area shape="rect" id="node66" href="$read0read_8h.html" title="include/read0read.h" alt="" coords="1623,83,1772,111"/>
+<area shape="rect" id="node68" href="$lock0priv_8h.html" title="include/lock0priv.h" alt="" coords="1796,83,1935,111"/>
+<area shape="rect" id="node5" href="$ut0ut_8h.html" title="include/ut0ut.h" alt="" coords="803,161,920,189"/>
+<area shape="rect" id="node7" href="$os0once_8h.html" title="include/os0once.h" alt="" coords="793,238,929,266"/>
+<area shape="rect" id="node13" href="$ut0mem_8h.html" title="include/ut0mem.h" alt="" coords="589,161,728,189"/>
+<area shape="rect" id="node19" href="$ut0wqueue_8h.html" title="include/ut0wqueue.h" alt="" coords="1009,470,1161,498"/>
+<area shape="rect" id="node32" href="$srv0srv_8h.html" title="include/srv0srv.h" alt="" coords="228,547,356,575"/>
+<area shape="rect" id="node52" href="$dict0stats__bg_8h.html" title="include/dict0stats_bg.h" alt="" coords="347,161,515,189"/>
+</map>

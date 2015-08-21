@@ -1,0 +1,24 @@
+<map id="include/row0mysql.h" name="include/row0mysql.h">
+<area shape="rect" id="node3" href="$univ_8i.html" title="univ.i" alt="" coords="676,547,729,575"/>
+<area shape="rect" id="node28" href="$data0data_8h.html" title="data0data.h" alt="" coords="352,315,451,343"/>
+<area shape="rect" id="node39" href="$dict0types_8h.html" title="dict0types.h" alt="" coords="72,393,171,421"/>
+<area shape="rect" id="node44" href="$que0types_8h.html" title="que0types.h" alt="" coords="243,238,344,266"/>
+<area shape="rect" id="node49" href="$trx0types_8h.html" title="trx0types.h" alt="" coords="1203,315,1296,343"/>
+<area shape="rect" id="node51" href="$row0types_8h.html" title="row0types.h" alt="" coords="1080,315,1179,343"/>
+<area shape="rect" id="node53" href="$btr0pcur_8h.html" title="btr0pcur.h" alt="" coords="739,83,824,111"/>
+<area shape="rect" id="node97" href="$row0mysql_8ic.html" title="row0mysql.ic" alt="" coords="1371,83,1475,111"/>
+<area shape="rect" id="node19" href="$ut0dbg_8h.html" title="ut0dbg.h" alt="" coords="664,625,741,653"/>
+<area shape="rect" id="node22" href="$ut0ut_8h.html" title="ut0ut.h" alt="" coords="939,625,1005,653"/>
+<area shape="rect" id="node25" href="$db0err_8h.html" title="db0err.h" alt="" coords="935,702,1009,730"/>
+<area shape="rect" id="node31" href="$data0types_8h.html" title="data0types.h" alt="" coords="296,393,403,421"/>
+<area shape="rect" id="node33" href="$data0type_8h.html" title="data0type.h" alt="" coords="805,393,904,421"/>
+<area shape="rect" id="node36" href="$mem0mem_8h.html" title="mem0mem.h" alt="" coords="469,470,579,498"/>
+<area shape="rect" id="node41" href="$data0data_8ic.html" title="data0data.ic" alt="" coords="427,393,528,421"/>
+<area shape="rect" id="node56" href="$dict0dict_8h.html" title="dict0dict.h" alt="" coords="793,238,881,266"/>
+<area shape="rect" id="node67" href="$mtr0mtr_8h.html" title="mtr0mtr.h" alt="" coords="493,315,579,343"/>
+<area shape="rect" id="node71" href="$page0cur_8h.html" title="page0cur.h" alt="" coords="621,238,715,266"/>
+<area shape="rect" id="node76" href="$btr0cur_8h.html" title="btr0cur.h" alt="" coords="857,161,935,189"/>
+<area shape="rect" id="node81" href="$btr0types_8h.html" title="btr0types.h" alt="" coords="956,238,1049,266"/>
+<area shape="rect" id="node86" href="$btr0btr_8h.html" title="btr0btr.h" alt="" coords="705,161,783,189"/>
+<area shape="rect" id="node95" href="$btr0pcur_8ic.html" title="btr0pcur.ic" alt="" coords="1009,161,1097,189"/>
+</map>

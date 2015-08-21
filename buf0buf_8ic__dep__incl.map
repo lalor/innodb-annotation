@@ -1,0 +1,13 @@
+<map id="include/buf0buf.ic" name="include/buf0buf.ic">
+<area shape="rect" id="node3" href="$buf0buf_8h.html" title="include/buf0buf.h" alt="" coords="516,83,647,111"/>
+<area shape="rect" id="node5" href="$trx0sys_8h.html" title="include/trx0sys.h" alt="" coords="89,161,217,189"/>
+<area shape="rect" id="node7" href="$mtr0log_8ic.html" title="include/mtr0log.ic" alt="" coords="5,238,139,266"/>
+<area shape="rect" id="node9" href="$lock0lock_8ic.html" title="include/lock0lock.ic" alt="" coords="184,238,325,266"/>
+<area shape="rect" id="node11" href="$buf0flu_8ic.html" title="include/buf0flu.ic" alt="" coords="292,161,420,189"/>
+<area shape="rect" id="node13" href="$fut0fut_8ic.html" title="include/fut0fut.ic" alt="" coords="444,161,569,189"/>
+<area shape="rect" id="node16" href="$fut0lst_8ic.html" title="include/fut0lst.ic" alt="" coords="593,161,719,189"/>
+<area shape="rect" id="node18" href="$page0page_8h.html" title="include/page0page.h" alt="" coords="743,161,897,189"/>
+<area shape="rect" id="node21" href="$btr0sea_8ic.html" title="include/btr0sea.ic" alt="" coords="921,161,1055,189"/>
+<area shape="rect" id="node23" href="$buf0buddy_8ic.html" title="include/buf0buddy.ic" alt="" coords="1079,161,1228,189"/>
+<area shape="rect" id="node25" href="$dict0boot_8h.html" title="include/dict0boot.h" alt="" coords="1252,161,1393,189"/>
+</map>

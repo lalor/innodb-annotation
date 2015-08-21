@@ -1,0 +1,7 @@
+<map id="pars_info_t" name="pars_info_t">
+<area shape="rect" id="node2" href="$structib__vector__t.html" title="ib_vector_t" alt="" coords="5,118,96,146"/>
+<area shape="rect" id="node4" href="$structib__alloc__t.html" title="ib_alloc_t" alt="" coords="11,15,91,43"/>
+<area shape="rect" id="node7" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="219,118,357,146"/>
+<area shape="rect" id="node9" href="$structut__list__base.html" title="ut_list_base\&lt; mem_block_t \&gt;" alt="" coords="120,243,333,271"/>
+<area shape="rect" id="node12" href="$structut__list__node.html" title="ut_list_node\&lt; mem_block_t \&gt;" alt="" coords="357,243,571,271"/>
+</map>

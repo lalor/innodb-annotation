@@ -1,0 +1,8 @@
+<map id="include/mem0mem.ic" name="include/mem0mem.ic">
+<area shape="rect" id="node3" href="$mem0dbg_8ic.html" title="mem0dbg.ic" alt="" coords="5,83,107,111"/>
+<area shape="rect" id="node5" href="$mem0pool_8h.html" title="mem0pool.h" alt="" coords="131,83,232,111"/>
+<area shape="rect" id="node7" href="$univ_8i.html" title="univ.i" alt="" coords="107,238,160,266"/>
+<area shape="rect" id="node9" href="$os0file_8h.html" title="os0file.h" alt="" coords="96,161,171,189"/>
+<area shape="rect" id="node12" href="$ut0lst_8h.html" title="ut0lst.h" alt="" coords="195,161,264,189"/>
+<area shape="rect" id="node15" href="$mem0pool_8ic.html" title="mem0pool.ic" alt="" coords="288,161,392,189"/>
+</map>

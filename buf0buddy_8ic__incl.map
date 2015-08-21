@@ -1,0 +1,17 @@
+<map id="include/buf0buddy.ic" name="include/buf0buddy.ic">
+<area shape="rect" id="node3" href="$buf0buf_8h.html" title="buf0buf.h" alt="" coords="411,83,491,111"/>
+<area shape="rect" id="node7" href="$ut0ut_8h.html" title="ut0ut.h" alt="" coords="497,470,564,498"/>
+<area shape="rect" id="node20" href="$sync0sync_8h.html" title="sync0sync.h" alt="" coords="697,315,796,343"/>
+<area shape="rect" id="node45" href="$buf0buddy_8h.html" title="buf0buddy.h" alt="" coords="867,83,965,111"/>
+<area shape="rect" id="node5" href="$univ_8i.html" title="univ.i" alt="" coords="504,393,557,421"/>
+<area shape="rect" id="node10" href="$fil0fil_8h.html" title="fil0fil.h" alt="" coords="468,161,529,189"/>
+<area shape="rect" id="node13" href="$ut0byte_8h.html" title="ut0byte.h" alt="" coords="489,315,572,343"/>
+<area shape="rect" id="node16" href="$log0log_8h.html" title="log0log.h" alt="" coords="591,238,671,266"/>
+<area shape="rect" id="node23" href="$mtr0types_8h.html" title="mtr0types.h" alt="" coords="5,238,104,266"/>
+<area shape="rect" id="node25" href="$buf0types_8h.html" title="buf0types.h" alt="" coords="705,161,801,189"/>
+<area shape="rect" id="node27" href="$hash0hash_8h.html" title="hash0hash.h" alt="" coords="695,238,799,266"/>
+<area shape="rect" id="node32" href="$page0types_8h.html" title="page0types.h" alt="" coords="76,161,185,189"/>
+<area shape="rect" id="node36" href="$ut0rbt_8h.html" title="ut0rbt.h" alt="" coords="207,315,279,343"/>
+<area shape="rect" id="node39" href="$os0proc_8h.html" title="os0proc.h" alt="" coords="260,238,345,266"/>
+<area shape="rect" id="node43" href="$buf0buf_8ic.html" title="buf0buf.ic" alt="" coords="361,161,444,189"/>
+</map>

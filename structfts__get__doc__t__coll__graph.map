@@ -1,0 +1,8 @@
+<map id="fts_get_doc_t" name="fts_get_doc_t">
+<area shape="rect" id="node2" href="$structfts__index__cache__t.html" title="fts_index_cache_t" alt="" coords="211,131,347,159"/>
+<area shape="rect" id="node4" href="$structib__vector__t.html" title="ib_vector_t" alt="" coords="16,6,107,34"/>
+<area shape="rect" id="node13" href="$structfts__cache__t.html" title="fts_cache_t" alt="" coords="11,131,104,159"/>
+<area shape="rect" id="node6" href="$structdict__index__t.html" title="dict_index_t" alt="" coords="275,6,374,34"/>
+<area shape="rect" id="node8" href="$structque__fork__t.html" title="que_fork_t" alt="" coords="416,6,504,34"/>
+<area shape="rect" id="node11" href="$structib__rbt__t.html" title="ib_rbt_t" alt="" coords="182,6,251,34"/>
+</map>

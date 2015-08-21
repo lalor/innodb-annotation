@@ -1,0 +1,14 @@
+<map id="include/trx0sys.h" name="include/trx0sys.h">
+<area shape="rect" id="node3" href="$trx0roll_8h.html" title="include/trx0roll.h" alt="" coords="43,83,168,111"/>
+<area shape="rect" id="node7" href="$lock0lock_8ic.html" title="include/lock0lock.ic" alt="" coords="32,238,173,266"/>
+<area shape="rect" id="node9" href="$mtr0log_8ic.html" title="include/mtr0log.ic" alt="" coords="420,83,553,111"/>
+<area shape="rect" id="node13" href="$trx0rseg_8ic.html" title="include/trx0rseg.ic" alt="" coords="420,238,559,266"/>
+<area shape="rect" id="node15" href="$trx0rseg_8h.html" title="include/trx0rseg.h" alt="" coords="368,315,504,343"/>
+<area shape="rect" id="node17" href="$trx0undo_8h.html" title="include/trx0undo.h" alt="" coords="577,83,716,111"/>
+<area shape="rect" id="node20" href="$read0read_8ic.html" title="include/read0read.ic" alt="" coords="196,83,345,111"/>
+<area shape="rect" id="node25" href="$row0undo_8h.html" title="include/row0undo.h" alt="" coords="791,83,935,111"/>
+<area shape="rect" id="node27" href="$trx0purge_8h.html" title="include/trx0purge.h" alt="" coords="959,83,1103,111"/>
+<area shape="rect" id="node5" href="$que0que_8h.html" title="include/que0que.h" alt="" coords="33,161,172,189"/>
+<area shape="rect" id="node11" href="$mtr0log_8h.html" title="include/mtr0log.h" alt="" coords="421,161,555,189"/>
+<area shape="rect" id="node22" href="$read0read_8h.html" title="include/read0read.h" alt="" coords="196,161,345,189"/>
+</map>

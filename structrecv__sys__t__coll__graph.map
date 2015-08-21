@@ -1,0 +1,8 @@
+<map id="recv_sys_t" name="recv_sys_t">
+<area shape="rect" id="node2" href="$structhash__table__t.html" title="hash_table_t" alt="" coords="265,209,369,237"/>
+<area shape="rect" id="node4" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="5,99,144,127"/>
+<area shape="rect" id="node6" href="$structhash__cell__t.html" title="hash_cell_t" alt="" coords="381,99,475,127"/>
+<area shape="rect" id="node8" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="271,6,364,34"/>
+<area shape="rect" id="node10" href="$structrw__lock__t.html" title="rw_lock_t" alt="" coords="277,99,357,127"/>
+<area shape="rect" id="node15" href="$structrecv__dblwr__t.html" title="recv_dblwr_t" alt="" coords="549,209,651,237"/>
+</map>

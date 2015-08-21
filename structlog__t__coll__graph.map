@@ -1,0 +1,12 @@
+<map id="log_t" name="log_t">
+<area shape="rect" id="node2" href="$structos__event.html" title="os_event" alt="" coords="260,158,340,186"/>
+<area shape="rect" id="node4" href="$structut__list__node.html" title="ut_list_node\&lt; os_event_t \&gt;" alt="" coords="487,225,684,253"/>
+<area shape="rect" id="node13" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="539,150,632,178"/>
+<area shape="rect" id="node20" href="$structrw__lock__t.html" title="rw_lock_t" alt="" coords="920,313,1000,341"/>
+<area shape="rect" id="node7" href="$structos__fast__mutex__t.html" title="os_fast_mutex_t" alt="" coords="5,87,133,115"/>
+<area shape="rect" id="node9" href="$structut__list__base.html" title="ut_list_base\&lt; log_group_t \&gt;" alt="" coords="859,23,1061,51"/>
+<area shape="rect" id="node11" href="$structlog__group__t.html" title="log_group_t" alt="" coords="537,22,633,50"/>
+<area shape="rect" id="node16" href="$structut__list__node.html" title="ut_list_node\&lt; ib_mutex_t \&gt;" alt="" coords="860,227,1060,255"/>
+<area shape="rect" id="node25" href="$structut__list__node.html" title="ut_list_node\&lt; rw_lock_t \&gt;" alt="" coords="1216,303,1403,331"/>
+<area shape="rect" id="node23" href="$structut__list__base.html" title="ut_list_base\&lt; rw_lock\l_debug_t \&gt;" alt="" coords="507,381,664,425"/>
+</map>

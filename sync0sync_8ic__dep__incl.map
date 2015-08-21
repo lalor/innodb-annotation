@@ -1,0 +1,13 @@
+<map id="include/sync0sync.ic" name="include/sync0sync.ic">
+<area shape="rect" id="node3" href="$sync0sync_8h.html" title="include/sync0sync.h" alt="" coords="479,83,628,111"/>
+<area shape="rect" id="node5" href="$mem0mem_8h.html" title="include/mem0mem.h" alt="" coords="136,161,293,189"/>
+<area shape="rect" id="node7" href="$hash0hash_8h.html" title="include/hash0hash.h" alt="" coords="208,238,360,266"/>
+<area shape="rect" id="node9" href="$dict0dict_8h.html" title="include/dict0dict.h" alt="" coords="329,315,465,343"/>
+<area shape="rect" id="node11" href="$lock0lock_8ic.html" title="include/lock0lock.ic" alt="" coords="484,393,625,421"/>
+<area shape="rect" id="node13" href="$trx0sys_8h.html" title="include/trx0sys.h" alt="" coords="5,238,133,266"/>
+<area shape="rect" id="node17" href="$log0log_8h.html" title="include/log0log.h" alt="" coords="648,238,776,266"/>
+<area shape="rect" id="node19" href="$srv0srv_8h.html" title="include/srv0srv.h" alt="" coords="648,315,776,343"/>
+<area shape="rect" id="node22" href="$sync0rw_8h.html" title="include/sync0rw.h" alt="" coords="435,161,568,189"/>
+<area shape="rect" id="node25" href="$mtr0mtr_8ic.html" title="include/mtr0mtr.ic" alt="" coords="485,238,624,266"/>
+<area shape="rect" id="node34" href="$buf0buddy_8ic.html" title="include/buf0buddy.ic" alt="" coords="901,161,1051,189"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="include/page0page.ic" name="include/page0page.ic">
+<area shape="rect" id="node3" href="$page0page_8h.html" title="include/page0page.h" alt="" coords="353,83,508,111"/>
+<area shape="rect" id="node5" href="$page0cur_8h.html" title="include/page0cur.h" alt="" coords="60,238,201,266"/>
+<area shape="rect" id="node7" href="$lock0lock_8ic.html" title="include/lock0lock.ic" alt="" coords="5,315,147,343"/>
+<area shape="rect" id="node9" href="$page0zip_8ic.html" title="include/page0zip.ic" alt="" coords="111,161,252,189"/>
+<area shape="rect" id="node11" href="$page0cur_8ic.html" title="include/page0cur.ic" alt="" coords="276,161,420,189"/>
+<area shape="rect" id="node14" href="$ibuf0ibuf_8ic.html" title="include/ibuf0ibuf.ic" alt="" coords="444,161,583,189"/>
+<area shape="rect" id="node16" href="$trx0undo_8ic.html" title="include/trx0undo.ic" alt="" coords="607,161,748,189"/>
+<area shape="rect" id="node19" href="$row0vers_8ic.html" title="include/row0vers.ic" alt="" coords="772,161,913,189"/>
+<area shape="rect" id="node21" href="$trx0purge_8h.html" title="include/trx0purge.h" alt="" coords="937,161,1081,189"/>
+</map>

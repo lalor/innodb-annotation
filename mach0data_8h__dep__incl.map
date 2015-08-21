@@ -1,0 +1,13 @@
+<map id="include/mach0data.h" name="include/mach0data.h">
+<area shape="rect" id="node3" href="$data0type_8ic.html" title="include/data0type.ic" alt="" coords="5,83,155,111"/>
+<area shape="rect" id="node7" href="$ut0mem_8ic.html" title="include/ut0mem.ic" alt="" coords="179,83,317,111"/>
+<area shape="rect" id="node11" href="$mem0mem_8h.html" title="include/mem0mem.h" alt="" coords="223,238,380,266"/>
+<area shape="rect" id="node14" href="$log0log_8ic.html" title="include/log0log.ic" alt="" coords="392,83,523,111"/>
+<area shape="rect" id="node16" href="$mtr0mtr_8ic.html" title="include/mtr0mtr.ic" alt="" coords="547,83,685,111"/>
+<area shape="rect" id="node18" href="$mtr0log_8ic.html" title="include/mtr0log.ic" alt="" coords="709,83,843,111"/>
+<area shape="rect" id="node20" href="$rem0rec_8ic.html" title="include/rem0rec.ic" alt="" coords="867,83,1005,111"/>
+<area shape="rect" id="node22" href="$page0page_8ic.html" title="include/page0page.ic" alt="" coords="1029,83,1187,111"/>
+<area shape="rect" id="node24" href="$btr0btr_8ic.html" title="include/btr0btr.ic" alt="" coords="1211,83,1339,111"/>
+<area shape="rect" id="node5" href="$data0type_8h.html" title="include/data0type.h" alt="" coords="7,161,153,189"/>
+<area shape="rect" id="node9" href="$ut0mem_8h.html" title="include/ut0mem.h" alt="" coords="179,161,317,189"/>
+</map>

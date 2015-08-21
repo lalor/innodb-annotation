@@ -1,0 +1,27 @@
+<map id="trx_purge_t" name="trx_purge_t">
+<area shape="rect" id="node2" href="$structpurge__iter__t.html" title="purge_iter_t" alt="" coords="1655,30,1753,58"/>
+<area shape="rect" id="node4" href="$structos__event.html" title="os_event" alt="" coords="260,277,340,305"/>
+<area shape="rect" id="node6" href="$structut__list__node.html" title="ut_list_node\&lt; os_event_t \&gt;" alt="" coords="487,279,684,307"/>
+<area shape="rect" id="node33" href="$structrw__lock__t.html" title="rw_lock_t" alt="" coords="808,235,888,263"/>
+<area shape="rect" id="node36" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="539,346,632,374"/>
+<area shape="rect" id="node9" href="$structos__fast__mutex__t.html" title="os_fast_mutex_t" alt="" coords="5,357,133,385"/>
+<area shape="rect" id="node11" href="$structib__bh__t.html" title="ib_bh_t" alt="" coords="1671,131,1737,159"/>
+<area shape="rect" id="node13" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="779,1053,917,1081"/>
+<area shape="rect" id="node15" href="$structut__list__base.html" title="ut_list_base\&lt; mem_block_t \&gt;" alt="" coords="1052,1230,1265,1258"/>
+<area shape="rect" id="node18" href="$structut__list__node.html" title="ut_list_node\&lt; mem_block_t \&gt;" alt="" coords="1052,1163,1265,1191"/>
+<area shape="rect" id="node21" href="$structtrx__t.html" title="trx_t" alt="" coords="1437,631,1488,659"/>
+<area shape="rect" id="node23" href="$structtrx__undo__arr__t.html" title="trx_undo_arr_t" alt="" coords="1101,961,1216,989"/>
+<area shape="rect" id="node30" href="$structdict__index__t.html" title="dict_index_t" alt="" coords="1109,681,1208,709"/>
+<area shape="rect" id="node53" href="$structfts__trx__t.html" title="fts_trx_t" alt="" coords="1667,931,1741,959"/>
+<area shape="rect" id="node58" href="$structtrx__lock__t.html" title="trx_lock_t" alt="" coords="1117,795,1200,823"/>
+<area shape="rect" id="node67" href="$structque__fork__t.html" title="que_fork_t" alt="" coords="1660,559,1748,587"/>
+<area shape="rect" id="node47" href="$structut__list__node.html" title="ut_list_node\&lt; trx_t \&gt;" alt="" coords="1625,719,1783,747"/>
+<area shape="rect" id="node50" href="$structsess__t.html" title="sess_t" alt="" coords="1673,447,1735,475"/>
+<area shape="rect" id="node26" href="$structxid__t.html" title="xid_t" alt="" coords="823,555,873,583"/>
+<area shape="rect" id="node40" href="$structtrx__undo__t.html" title="trx_undo_t" alt="" coords="1113,449,1204,477"/>
+<area shape="rect" id="node28" href="$structib__vector__t.html" title="ib_vector_t" alt="" coords="803,786,893,814"/>
+<area shape="rect" id="node43" href="$structtrx__rseg__t.html" title="trx_rseg_t" alt="" coords="805,375,891,403"/>
+<area shape="rect" id="node62" href="$structtrx__savept__t.html" title="trx_savept_t" alt="" coords="1108,499,1209,527"/>
+<area shape="rect" id="node64" href="$structut__list__base.html" title="ut_list_base\&lt; trx_named\l_savept_t \&gt;" alt="" coords="1068,550,1249,594"/>
+<area shape="rect" id="node73" href="$structread__view__t.html" title="read_view_t" alt="" coords="1111,1113,1207,1141"/>
+</map>

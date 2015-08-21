@@ -1,9 +1,0 @@
-digraph "handler/" {
-  bgcolor=transparent;
-  compound=true
-  node [ fontsize="10", fontname="FreeSans"];
-  edge [ labelfontsize="10", labelfontname="FreeSans"];
-  dir_86b4fd221cb82d33529a1c1884b50833 [shape=box, label="handler", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_86b4fd221cb82d33529a1c1884b50833.html"];
-  dir_d44c64559bbebec7f509842c48db8b23 [shape=box label="include" URL="dir_d44c64559bbebec7f509842c48db8b23.html"];
-  dir_86b4fd221cb82d33529a1c1884b50833->dir_d44c64559bbebec7f509842c48db8b23 [headlabel="1", labeldistance=1.5 headhref="dir_000000_000001.html"];
-}

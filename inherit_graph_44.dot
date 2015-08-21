@@ -1,8 +1,0 @@
-digraph "Graphical Class Hierarchy"
-{
-  bgcolor="transparent";
-  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
-  node [fontname="FreeSans",fontsize="10",shape=record];
-  rankdir="LR";
-  Node1 [label="dyn_block_t",height=0.2,width=0.4,color="black",URL="$structdyn__block__t.html",tooltip="A block in a dynamically allocated array. NOTE! Do not access the fields of the struct directly: the ..."];
-}

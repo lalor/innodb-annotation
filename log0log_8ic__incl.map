@@ -1,0 +1,19 @@
+<map id="include/log0log.ic" name="include/log0log.ic">
+<area shape="rect" id="node3" href="$os0file_8h.html" title="os0file.h" alt="" coords="36,315,111,343"/>
+<area shape="rect" id="node17" href="$mach0data_8h.html" title="mach0data.h" alt="" coords="467,315,574,343"/>
+<area shape="rect" id="node25" href="$mtr0mtr_8h.html" title="mtr0mtr.h" alt="" coords="507,83,592,111"/>
+<area shape="rect" id="node59" href="$srv0mon_8h.html" title="srv0mon.h" alt="" coords="983,83,1074,111"/>
+<area shape="rect" id="node5" href="$univ_8i.html" title="univ.i" alt="" coords="494,470,547,498"/>
+<area shape="rect" id="node14" href="$os0file_8ic.html" title="os0file.ic" alt="" coords="212,393,290,421"/>
+<area shape="rect" id="node20" href="$ut0byte_8h.html" title="ut0byte.h" alt="" coords="650,393,732,421"/>
+<area shape="rect" id="node23" href="$mach0data_8ic.html" title="mach0data.ic" alt="" coords="466,393,575,421"/>
+<area shape="rect" id="node28" href="$mem0mem_8h.html" title="mem0mem.h" alt="" coords="636,238,746,266"/>
+<area shape="rect" id="node33" href="$dyn0dyn_8h.html" title="dyn0dyn.h" alt="" coords="679,161,767,189"/>
+<area shape="rect" id="node37" href="$buf0types_8h.html" title="buf0types.h" alt="" coords="791,161,887,189"/>
+<area shape="rect" id="node39" href="$sync0rw_8h.html" title="sync0rw.h" alt="" coords="415,238,498,266"/>
+<area shape="rect" id="node43" href="$mtr0types_8h.html" title="mtr0types.h" alt="" coords="186,238,284,266"/>
+<area shape="rect" id="node45" href="$page0types_8h.html" title="page0types.h" alt="" coords="231,161,340,189"/>
+<area shape="rect" id="node49" href="$log0log_8h.html" title="log0log.h" alt="" coords="911,161,991,189"/>
+<area shape="rect" id="node55" href="$mtr0mtr_8ic.html" title="mtr0mtr.ic" alt="" coords="466,161,554,189"/>
+<area shape="rect" id="node62" href="$srv0mon_8ic.html" title="srv0mon.ic" alt="" coords="1066,161,1156,189"/>
+</map>

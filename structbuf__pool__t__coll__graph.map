@@ -1,0 +1,20 @@
+<map id="buf_pool_t" name="buf_pool_t">
+<area shape="rect" id="node2" href="$structut__list__base.html" title="ut_list_base\&lt; buf_buddy\l_free_t \&gt;" alt="" coords="1440,13,1619,57"/>
+<area shape="rect" id="node4" href="$structbuf__buddy__free__t.html" title="buf_buddy_free_t" alt="" coords="1049,27,1180,55"/>
+<area shape="rect" id="node6" href="$structbuf__page__t.html" title="buf_page_t" alt="" coords="801,119,895,147"/>
+<area shape="rect" id="node18" href="$structbuf__block__t.html" title="buf_block_t" alt="" coords="1068,357,1161,385"/>
+<area shape="rect" id="node48" href="$structut__list__base.html" title="ut_list_base\&lt; buf_page_t \&gt;" alt="" coords="1207,169,1404,197"/>
+<area shape="rect" id="node9" href="$structos__event.html" title="os_event" alt="" coords="260,391,340,419"/>
+<area shape="rect" id="node11" href="$structut__list__node.html" title="ut_list_node\&lt; os_event_t \&gt;" alt="" coords="487,403,684,431"/>
+<area shape="rect" id="node21" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="539,498,632,526"/>
+<area shape="rect" id="node25" href="$structrw__lock__t.html" title="rw_lock_t" alt="" coords="808,437,888,465"/>
+<area shape="rect" id="node14" href="$structos__fast__mutex__t.html" title="os_fast_mutex_t" alt="" coords="5,471,133,499"/>
+<area shape="rect" id="node16" href="$structbuf__chunk__t.html" title="buf_chunk_t" alt="" coords="1480,305,1579,333"/>
+<area shape="rect" id="node45" href="$structut__list__base.html" title="ut_list_base\&lt; buf_block_t \&gt;" alt="" coords="1429,355,1629,383"/>
+<area shape="rect" id="node29" href="$structhash__table__t.html" title="hash_table_t" alt="" coords="1063,562,1167,590"/>
+<area shape="rect" id="node31" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="779,509,917,537"/>
+<area shape="rect" id="node33" href="$structhash__cell__t.html" title="hash_cell_t" alt="" coords="801,623,895,651"/>
+<area shape="rect" id="node37" href="$structbuf__buddy__stat__t.html" title="buf_buddy_stat_t" alt="" coords="1464,406,1595,434"/>
+<area shape="rect" id="node41" href="$structib__rbt__t.html" title="ib_rbt_t" alt="" coords="1495,457,1564,485"/>
+<area shape="rect" id="node43" href="$structbuf__pool__stat__t.html" title="The buffer pool statistics structure." alt="" coords="1469,509,1589,537"/>
+</map>

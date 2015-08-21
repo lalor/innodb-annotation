@@ -1,0 +1,30 @@
+<map id="include/dyn0dyn.h" name="include/dyn0dyn.h">
+<area shape="rect" id="node3" href="$mtr0mtr_8h.html" title="include/mtr0mtr.h" alt="" coords="1071,83,1207,111"/>
+<area shape="rect" id="node5" href="$log0log_8ic.html" title="include/log0log.ic" alt="" coords="5,161,136,189"/>
+<area shape="rect" id="node7" href="$trx0roll_8h.html" title="include/trx0roll.h" alt="" coords="211,393,336,421"/>
+<area shape="rect" id="node9" href="$buf0buf_8ic.html" title="include/buf0buf.ic" alt="" coords="1277,161,1408,189"/>
+<area shape="rect" id="node11" href="$buf0flu_8ic.html" title="include/buf0flu.ic" alt="" coords="1432,161,1560,189"/>
+<area shape="rect" id="node13" href="$trx0sys_8h.html" title="include/trx0sys.h" alt="" coords="365,315,493,343"/>
+<area shape="rect" id="node16" href="$trx0undo_8h.html" title="include/trx0undo.h" alt="" coords="360,393,499,421"/>
+<area shape="rect" id="node18" href="$row0undo_8h.html" title="include/row0undo.h" alt="" coords="464,625,608,653"/>
+<area shape="rect" id="node20" href="$trx0purge_8h.html" title="include/trx0purge.h" alt="" coords="573,393,717,421"/>
+<area shape="rect" id="node22" href="$fsp0fsp_8h.html" title="include/fsp0fsp.h" alt="" coords="641,238,769,266"/>
+<area shape="rect" id="node25" href="$page0page_8h.html" title="include/page0page.h" alt="" coords="568,315,723,343"/>
+<area shape="rect" id="node27" href="$page0cur_8h.html" title="include/page0cur.h" alt="" coords="904,393,1045,421"/>
+<area shape="rect" id="node29" href="$btr0btr_8h.html" title="include/btr0btr.h" alt="" coords="1043,470,1168,498"/>
+<area shape="rect" id="node31" href="$btr0pcur_8h.html" title="include/btr0pcur.h" alt="" coords="1001,547,1137,575"/>
+<area shape="rect" id="node36" href="$dict0boot_8h.html" title="include/dict0boot.h" alt="" coords="957,315,1099,343"/>
+<area shape="rect" id="node38" href="$ibuf0ibuf_8h.html" title="include/ibuf0ibuf.h" alt="" coords="747,315,883,343"/>
+<area shape="rect" id="node40" href="$fut0lst_8h.html" title="include/fut0lst.h" alt="" coords="619,161,741,189"/>
+<area shape="rect" id="node43" href="$fut0fut_8h.html" title="include/fut0fut.h" alt="" coords="1584,161,1709,189"/>
+<area shape="rect" id="node45" href="$mtr0log_8h.html" title="include/mtr0log.h" alt="" coords="968,161,1101,189"/>
+<area shape="rect" id="node47" href="$btr0btr_8ic.html" title="include/btr0btr.ic" alt="" coords="1024,238,1152,266"/>
+<area shape="rect" id="node56" href="$btr0sea_8h.html" title="include/btr0sea.h" alt="" coords="1733,161,1864,189"/>
+<area shape="rect" id="node59" href="$dict0crea_8h.html" title="include/dict0crea.h" alt="" coords="1888,161,2029,189"/>
+<area shape="rect" id="node62" href="$row0row_8h.html" title="include/row0row.h" alt="" coords="2053,161,2187,189"/>
+<area shape="rect" id="node65" href="$row0vers_8h.html" title="include/row0vers.h" alt="" coords="2211,161,2349,189"/>
+<area shape="rect" id="node67" href="$row0merge_8h.html" title="include/row0merge.h" alt="" coords="2373,161,2528,189"/>
+<area shape="rect" id="node69" href="$row0uins_8h.html" title="include/row0uins.h" alt="" coords="2552,161,2691,189"/>
+<area shape="rect" id="node71" href="$row0umod_8h.html" title="include/row0umod.h" alt="" coords="2715,161,2864,189"/>
+<area shape="rect" id="node75" href="$trx0rec_8h.html" title="include/trx0rec.h" alt="" coords="2888,161,3016,189"/>
+</map>

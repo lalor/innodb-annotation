@@ -1,0 +1,8 @@
+<map id="btr_search_t" name="btr_search_t">
+<area shape="rect" id="node7" href="$structdict__index__t.html" title="dict_index_t" alt="" coords="153,194,251,222"/>
+<area shape="rect" id="node2" href="$structbuf__block__t.html" title="buf_block_t" alt="" coords="155,289,249,317"/>
+<area shape="rect" id="node4" href="$structut__list__node.html" title="ut_list_node\&lt; buf_block_t \&gt;" alt="" coords="102,398,302,426"/>
+<area shape="rect" id="node9" href="$structrw__lock__t.html" title="rw_lock_t" alt="" coords="165,99,245,127"/>
+<area shape="rect" id="node11" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="6,6,99,34"/>
+<area shape="rect" id="node14" href="$structbuf__page__t.html" title="buf_page_t" alt="" coords="406,194,499,222"/>
+</map>

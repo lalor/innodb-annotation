@@ -1,0 +1,5 @@
+<map id="rseg_queue_t" name="rseg_queue_t">
+<area shape="rect" id="node2" href="$structtrx__rseg__t.html" title="trx_rseg_t" alt="" coords="93,147,179,175"/>
+<area shape="rect" id="node4" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="5,6,99,34"/>
+<area shape="rect" id="node6" href="$structut__list__base.html" title="ut_list_base\&lt; trx_undo_t \&gt;" alt="" coords="123,6,317,34"/>
+</map>

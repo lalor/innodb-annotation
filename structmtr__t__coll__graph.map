@@ -1,0 +1,6 @@
+<map id="mtr_t" name="mtr_t">
+<area shape="rect" id="node2" href="$structdyn__block__t.html" title="A block in a dynamically allocated array. NOTE! Do not access the fields of the struct directly: the ..." alt="" coords="203,99,299,127"/>
+<area shape="rect" id="node6" href="$structut__list__node.html" title="ut_list_node\&lt; dyn_block_t \&gt;" alt="" coords="85,209,288,237"/>
+<area shape="rect" id="node9" href="$structut__list__base.html" title="ut_list_base\&lt; dyn_block_t \&gt;" alt="" coords="312,209,515,237"/>
+<area shape="rect" id="node4" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="181,6,320,34"/>
+</map>

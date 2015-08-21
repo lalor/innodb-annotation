@@ -1,0 +1,20 @@
+<map id="include/page0zip.h" name="include/page0zip.h">
+<area shape="rect" id="node3" href="$mtr0types_8h.html" title="mtr0types.h" alt="" coords="533,315,632,343"/>
+<area shape="rect" id="node5" href="$page0types_8h.html" title="page0types.h" alt="" coords="823,238,932,266"/>
+<area shape="rect" id="node11" href="$dict0types_8h.html" title="dict0types.h" alt="" coords="1124,315,1223,343"/>
+<area shape="rect" id="node14" href="$buf0types_8h.html" title="buf0types.h" alt="" coords="703,238,799,266"/>
+<area shape="rect" id="node17" href="$srv0srv_8h.html" title="srv0srv.h" alt="" coords="493,83,571,111"/>
+<area shape="rect" id="node34" href="$trx0types_8h.html" title="trx0types.h" alt="" coords="811,161,904,189"/>
+<area shape="rect" id="node46" href="$mem0mem_8h.html" title="mem0mem.h" alt="" coords="5,161,115,189"/>
+<area shape="rect" id="node50" href="$page0zip_8ic.html" title="page0zip.ic" alt="" coords="1033,83,1127,111"/>
+<area shape="rect" id="node9" href="$univ_8i.html" title="univ.i" alt="" coords="425,393,479,421"/>
+<area shape="rect" id="node20" href="$log0log_8h.html" title="log0log.h" alt="" coords="139,161,219,189"/>
+<area shape="rect" id="node23" href="$sync0sync_8h.html" title="sync0sync.h" alt="" coords="197,238,296,266"/>
+<area shape="rect" id="node26" href="$os0sync_8h.html" title="os0sync.h" alt="" coords="248,315,333,343"/>
+<area shape="rect" id="node31" href="$que0types_8h.html" title="que0types.h" alt="" coords="956,238,1057,266"/>
+<area shape="rect" id="node36" href="$srv0conc_8h_source.html" title="srv0conc.h" alt="" coords="445,161,536,189"/>
+<area shape="rect" id="node38" href="$buf0checksum_8h_source.html" title="buf0checksum.h" alt="" coords="611,161,736,189"/>
+<area shape="rect" id="node42" href="$ut0counter_8h.html" title="ut0counter.h" alt="" coords="357,315,459,343"/>
+<area shape="rect" id="node53" href="$mtr0log_8h.html" title="mtr0log.h" alt="" coords="1132,238,1215,266"/>
+<area shape="rect" id="node57" href="$page0page_8h.html" title="page0page.h" alt="" coords="1029,161,1136,189"/>
+</map>

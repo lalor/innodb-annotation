@@ -1,0 +1,14 @@
+<map id="fts_psort_common_t" name="fts_psort_common_t">
+<area shape="rect" id="node24" href="$structfts__psort__t.html" title="fts_psort_t" alt="" coords="1912,299,2003,327"/>
+<area shape="rect" id="node2" href="$structos__event.html" title="os_event" alt="" coords="260,161,340,189"/>
+<area shape="rect" id="node4" href="$structut__list__node.html" title="ut_list_node\&lt; os_event_t \&gt;" alt="" coords="487,138,684,166"/>
+<area shape="rect" id="node18" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="539,251,632,279"/>
+<area shape="rect" id="node7" href="$structos__fast__mutex__t.html" title="os_fast_mutex_t" alt="" coords="5,218,133,246"/>
+<area shape="rect" id="node9" href="$structrow__merge__dup__t.html" title="row_merge_dup_t" alt="" coords="1285,125,1421,153"/>
+<area shape="rect" id="node11" href="$structdict__index__t.html" title="dict_index_t" alt="" coords="1069,173,1168,201"/>
+<area shape="rect" id="node15" href="$structtrx__t.html" title="trx_t" alt="" coords="1328,175,1379,203"/>
+<area shape="rect" id="node26" href="$structrow__merge__buf__t.html" title="row_merge_buf_t" alt="" coords="1447,246,1577,274"/>
+<area shape="rect" id="node13" href="$structdict__table__t.html" title="dict_table_t" alt="" coords="835,187,931,215"/>
+<area shape="rect" id="node29" href="$structut__list__base.html" title="ut_list_base\&lt; fts_doc\l_item_t \&gt;" alt="" coords="1604,393,1761,437"/>
+<area shape="rect" id="node33" href="$structmerge__file__t.html" title="merge_file_t" alt="" coords="1632,459,1733,487"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ib_mutex_t" name="ib_mutex_t">
+<area shape="rect" id="node9" href="$structut__list__node.html" title="ut_list_node\&lt; ib_mutex_t \&gt;" alt="" coords="5,318,205,346"/>
+<area shape="rect" id="node2" href="$structos__event.html" title="os_event" alt="" coords="205,99,285,127"/>
+<area shape="rect" id="node4" href="$structut__list__node.html" title="ut_list_node\&lt; os_event_t \&gt;" alt="" coords="187,209,384,237"/>
+<area shape="rect" id="node7" href="$structos__fast__mutex__t.html" title="os_fast_mutex_t" alt="" coords="69,6,197,34"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="buf_block_t" name="buf_block_t">
+<area shape="rect" id="node2" href="$structut__list__node.html" title="ut_list_node\&lt; buf_block_t \&gt;" alt="" coords="817,375,1017,403"/>
+<area shape="rect" id="node25" href="$structbtr__search__t.html" title="btr_search_t" alt="" coords="867,261,968,289"/>
+<area shape="rect" id="node5" href="$structdict__index__t.html" title="dict_index_t" alt="" coords="1144,210,1243,238"/>
+<area shape="rect" id="node21" href="$structut__list__node.html" title="ut_list_node\&lt; dict\l_index_t \&gt;" alt="" coords="1345,202,1481,246"/>
+<area shape="rect" id="node7" href="$structzip__pad__info__t.html" title="zip_pad_info_t" alt="" coords="861,6,973,34"/>
+<area shape="rect" id="node9" href="$structdict__table__t.html" title="dict_table_t" alt="" coords="543,138,639,166"/>
+<area shape="rect" id="node11" href="$structmem__block__info__t.html" title="mem_block_info_t" alt="" coords="221,70,360,98"/>
+<area shape="rect" id="node13" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="20,217,113,245"/>
+<area shape="rect" id="node15" href="$structrw__lock__t.html" title="rw_lock_t" alt="" coords="251,217,331,245"/>
+<area shape="rect" id="node19" href="$structdict__field__t.html" title="dict_field_t" alt="" coords="872,426,963,454"/>
+<area shape="rect" id="node28" href="$structbuf__page__t.html" title="buf_page_t" alt="" coords="244,414,337,442"/>
+<area shape="rect" id="node30" href="$structut__list__node.html" title="ut_list_node\&lt; buf_page_t \&gt;" alt="" coords="491,443,691,471"/>
+<area shape="rect" id="node33" href="$structpage__zip__des__t.html" title="page_zip_des_t" alt="" coords="7,414,127,442"/>
+</map>

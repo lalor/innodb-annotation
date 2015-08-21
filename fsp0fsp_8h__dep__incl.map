@@ -1,0 +1,17 @@
+<map id="include/fsp0fsp.h" name="include/fsp0fsp.h">
+<area shape="rect" id="node3" href="$trx0sys_8h.html" title="include/trx0sys.h" alt="" coords="617,238,745,266"/>
+<area shape="rect" id="node24" href="$dict0dict_8ic.html" title="include/dict0dict.ic" alt="" coords="1169,83,1308,111"/>
+<area shape="rect" id="node28" href="$page0page_8h.html" title="include/page0page.h" alt="" coords="1049,238,1204,266"/>
+<area shape="rect" id="node32" href="$dict0boot_8h.html" title="include/dict0boot.h" alt="" coords="1279,238,1420,266"/>
+<area shape="rect" id="node37" href="$ibuf0ibuf_8h.html" title="include/ibuf0ibuf.h" alt="" coords="1383,83,1519,111"/>
+<area shape="rect" id="node5" href="$trx0roll_8h.html" title="include/trx0roll.h" alt="" coords="539,315,664,343"/>
+<area shape="rect" id="node7" href="$mtr0log_8ic.html" title="include/mtr0log.ic" alt="" coords="219,315,352,343"/>
+<area shape="rect" id="node9" href="$trx0undo_8h.html" title="include/trx0undo.h" alt="" coords="376,315,515,343"/>
+<area shape="rect" id="node11" href="$lock0lock_8ic.html" title="include/lock0lock.ic" alt="" coords="1197,315,1339,343"/>
+<area shape="rect" id="node13" href="$read0read_8ic.html" title="include/read0read.ic" alt="" coords="688,315,837,343"/>
+<area shape="rect" id="node15" href="$row0undo_8h.html" title="include/row0undo.h" alt="" coords="861,315,1005,343"/>
+<area shape="rect" id="node17" href="$trx0purge_8h.html" title="include/trx0purge.h" alt="" coords="1029,315,1173,343"/>
+<area shape="rect" id="node19" href="$trx0rseg_8h.html" title="include/trx0rseg.h" alt="" coords="60,393,196,421"/>
+<area shape="rect" id="node21" href="$trx0rseg_8ic.html" title="include/trx0rseg.ic" alt="" coords="5,315,144,343"/>
+<area shape="rect" id="node26" href="$dict0dict_8h.html" title="include/dict0dict.h" alt="" coords="1171,161,1307,189"/>
+</map>

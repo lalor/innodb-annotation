@@ -1,0 +1,21 @@
+<map id="include/ut0vec.h" name="include/ut0vec.h">
+<area shape="rect" id="node3" href="$trx0trx_8h.html" title="include/trx0trx.h" alt="" coords="371,161,496,189"/>
+<area shape="rect" id="node19" href="$lock0lock_8h.html" title="include/lock0lock.h" alt="" coords="101,470,243,498"/>
+<area shape="rect" id="node34" href="$fts0fts_8h.html" title="include/fts0fts.h" alt="" coords="725,83,848,111"/>
+<area shape="rect" id="node44" href="$pars0pars_8h.html" title="include/pars0pars.h" alt="" coords="991,238,1137,266"/>
+<area shape="rect" id="node53" href="$row0purge_8h.html" title="include/row0purge.h" alt="" coords="1041,83,1191,111"/>
+<area shape="rect" id="node5" href="$que0que_8h.html" title="include/que0que.h" alt="" coords="513,315,652,343"/>
+<area shape="rect" id="node7" href="$api0misc_8h.html" title="include/api0misc.h" alt="" coords="439,393,577,421"/>
+<area shape="rect" id="node17" href="$lock0lock_8ic.html" title="include/lock0lock.ic" alt="" coords="101,393,243,421"/>
+<area shape="rect" id="node21" href="$row0upd_8ic.html" title="include/row0upd.ic" alt="" coords="156,547,295,575"/>
+<area shape="rect" id="node23" href="$trx0roll_8h.html" title="include/trx0roll.h" alt="" coords="573,238,699,266"/>
+<area shape="rect" id="node26" href="$trx0sys_8ic.html" title="include/trx0sys.ic" alt="" coords="368,238,499,266"/>
+<area shape="rect" id="node30" href="$read0read_8h.html" title="include/read0read.h" alt="" coords="43,315,192,343"/>
+<area shape="rect" id="node9" href="$eval0proc_8ic.html" title="include/eval0proc.ic" alt="" coords="1011,393,1157,421"/>
+<area shape="rect" id="node13" href="$fts0priv_8h.html" title="include/fts0priv.h" alt="" coords="824,393,952,421"/>
+<area shape="rect" id="node11" href="$eval0proc_8h.html" title="include/eval0proc.h" alt="" coords="1079,470,1223,498"/>
+<area shape="rect" id="node15" href="$row0ftsort_8h.html" title="include/row0ftsort.h" alt="" coords="713,470,860,498"/>
+<area shape="rect" id="node37" href="$dict0mem_8h.html" title="include/dict0mem.h" alt="" coords="769,161,916,189"/>
+<area shape="rect" id="node39" href="$fts0types_8h.html" title="include/fts0types.h" alt="" coords="773,315,915,343"/>
+<area shape="rect" id="node46" href="$eval0eval_8h.html" title="include/eval0eval.h" alt="" coords="989,315,1131,343"/>
+</map>

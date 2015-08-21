@@ -1,0 +1,20 @@
+<map id="include/fil0fil.h" name="include/fil0fil.h">
+<area shape="rect" id="node3" href="$fsp0types_8h_source.html" title="include/fsp0types.h" alt="" coords="315,393,459,421"/>
+<area shape="rect" id="node5" href="$trx0sys_8h.html" title="include/trx0sys.h" alt="" coords="437,547,565,575"/>
+<area shape="rect" id="node11" href="$trx0purge_8h.html" title="include/trx0purge.h" alt="" coords="1017,625,1161,653"/>
+<area shape="rect" id="node17" href="$page0page_8h.html" title="include/page0page.h" alt="" coords="1012,547,1167,575"/>
+<area shape="rect" id="node24" href="$buf0buf_8h.html" title="include/buf0buf.h" alt="" coords="588,83,719,111"/>
+<area shape="rect" id="node31" href="$fut0fut_8h.html" title="include/fut0fut.h" alt="" coords="765,238,891,266"/>
+<area shape="rect" id="node35" href="$fut0lst_8h.html" title="include/fut0lst.h" alt="" coords="804,393,927,421"/>
+<area shape="rect" id="node49" href="$dict0mem_8ic.html" title="include/dict0mem.ic" alt="" coords="93,83,243,111"/>
+<area shape="rect" id="node7" href="$mtr0log_8ic.html" title="include/mtr0log.ic" alt="" coords="320,625,453,653"/>
+<area shape="rect" id="node14" href="$fsp0fsp_8h.html" title="include/fsp0fsp.h" alt="" coords="801,470,929,498"/>
+<area shape="rect" id="node9" href="$lock0lock_8ic.html" title="include/lock0lock.ic" alt="" coords="532,625,673,653"/>
+<area shape="rect" id="node21" href="$dict0boot_8h.html" title="include/dict0boot.h" alt="" coords="829,547,971,575"/>
+<area shape="rect" id="node27" href="$buf0flu_8ic.html" title="include/buf0flu.ic" alt="" coords="840,161,968,189"/>
+<area shape="rect" id="node29" href="$fut0fut_8ic.html" title="include/fut0fut.ic" alt="" coords="691,161,816,189"/>
+<area shape="rect" id="node33" href="$fut0lst_8ic.html" title="include/fut0lst.ic" alt="" coords="765,315,891,343"/>
+<area shape="rect" id="node41" href="$btr0sea_8ic.html" title="include/btr0sea.ic" alt="" coords="348,238,481,266"/>
+<area shape="rect" id="node43" href="$buf0buddy_8ic.html" title="include/buf0buddy.ic" alt="" coords="315,161,464,189"/>
+<area shape="rect" id="node51" href="$dict0mem_8h.html" title="include/dict0mem.h" alt="" coords="93,161,240,189"/>
+</map>

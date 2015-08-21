@@ -1,0 +1,10 @@
+<map id="buf_dblwr_t" name="buf_dblwr_t">
+<area shape="rect" id="node2" href="$structos__event.html" title="os_event" alt="" coords="272,187,352,215"/>
+<area shape="rect" id="node4" href="$structut__list__node.html" title="ut_list_node\&lt; os_event_t \&gt;" alt="" coords="511,107,708,135"/>
+<area shape="rect" id="node17" href="$structib__mutex__t.html" title="ib_mutex_t" alt="" coords="563,267,656,295"/>
+<area shape="rect" id="node7" href="$structos__fast__mutex__t.html" title="os_fast_mutex_t" alt="" coords="5,237,133,265"/>
+<area shape="rect" id="node9" href="$structbuf__page__t.html" title="buf_page_t" alt="" coords="563,46,656,74"/>
+<area shape="rect" id="node11" href="$structut__list__node.html" title="ut_list_node\&lt; buf_page_t \&gt;" alt="" coords="848,29,1048,57"/>
+<area shape="rect" id="node14" href="$structpage__zip__des__t.html" title="page_zip_des_t" alt="" coords="252,34,372,62"/>
+<area shape="rect" id="node20" href="$structut__list__node.html" title="ut_list_node\&lt; ib_mutex_t \&gt;" alt="" coords="848,309,1048,337"/>
+</map>

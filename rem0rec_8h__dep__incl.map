@@ -1,0 +1,20 @@
+<map id="include/rem0rec.h" name="include/rem0rec.h">
+<area shape="rect" id="node3" href="$usr0sess_8h.html" title="include/usr0sess.h" alt="" coords="164,83,303,111"/>
+<area shape="rect" id="node9" href="$page0page_8h.html" title="include/page0page.h" alt="" coords="515,238,669,266"/>
+<area shape="rect" id="node11" href="$page0cur_8h.html" title="include/page0cur.h" alt="" coords="825,393,967,421"/>
+<area shape="rect" id="node28" href="$rem0cmp_8h.html" title="include/rem0cmp.h" alt="" coords="765,83,909,111"/>
+<area shape="rect" id="node39" href="$btr0sea_8h.html" title="include/btr0sea.h" alt="" coords="1152,83,1283,111"/>
+<area shape="rect" id="node41" href="$row0row_8ic.html" title="include/row0row.ic" alt="" coords="1307,83,1443,111"/>
+<area shape="rect" id="node43" href="$row0merge_8h.html" title="include/row0merge.h" alt="" coords="1467,83,1621,111"/>
+<area shape="rect" id="node5" href="$que0que_8ic.html" title="include/que0que.ic" alt="" coords="55,161,196,189"/>
+<area shape="rect" id="node7" href="$trx0purge_8h.html" title="include/trx0purge.h" alt="" coords="5,315,149,343"/>
+<area shape="rect" id="node13" href="$lock0lock_8ic.html" title="include/lock0lock.ic" alt="" coords="717,470,859,498"/>
+<area shape="rect" id="node15" href="$page0zip_8ic.html" title="include/page0zip.ic" alt="" coords="768,315,909,343"/>
+<area shape="rect" id="node17" href="$page0cur_8ic.html" title="include/page0cur.ic" alt="" coords="933,315,1077,343"/>
+<area shape="rect" id="node20" href="$ibuf0ibuf_8ic.html" title="include/ibuf0ibuf.ic" alt="" coords="173,315,312,343"/>
+<area shape="rect" id="node22" href="$trx0undo_8ic.html" title="include/trx0undo.ic" alt="" coords="336,315,477,343"/>
+<area shape="rect" id="node25" href="$row0vers_8ic.html" title="include/row0vers.ic" alt="" coords="501,315,643,343"/>
+<area shape="rect" id="node30" href="$page0page_8ic.html" title="include/page0page.ic" alt="" coords="533,161,691,189"/>
+<area shape="rect" id="node34" href="$eval0eval_8ic.html" title="include/eval0eval.ic" alt="" coords="765,161,909,189"/>
+<area shape="rect" id="node36" href="$fts0types_8ic.html" title="include/fts0types.ic" alt="" coords="933,161,1077,189"/>
+</map>
