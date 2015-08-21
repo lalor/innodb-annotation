@@ -1,0 +1,36 @@
+digraph "include/que0que.ic"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="include/que0que.ic",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="usr0sess.h",height=0.2,width=0.4,color="black",URL="$usr0sess_8h.html"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="univ.i",height=0.2,width=0.4,color="red",URL="$univ_8i.html"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="ut0byte.h",height=0.2,width=0.4,color="red",URL="$ut0byte_8h.html"];
+  Node4 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="trx0types.h",height=0.2,width=0.4,color="black",URL="$trx0types_8h.html"];
+  Node5 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="srv0srv.h",height=0.2,width=0.4,color="red",URL="$srv0srv_8h.html"];
+  Node6 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="que0types.h",height=0.2,width=0.4,color="red",URL="$que0types_8h.html"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="data0data.h",height=0.2,width=0.4,color="red",URL="$data0data_8h.html"];
+  Node8 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="usr0types.h",height=0.2,width=0.4,color="black",URL="$usr0types_8h.html"];
+  Node2 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="rem0rec.h",height=0.2,width=0.4,color="red",URL="$rem0rec_8h.html"];
+  Node10 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node11 [label="usr0sess.ic",height=0.2,width=0.4,color="black",URL="$usr0sess_8ic.html"];
+}

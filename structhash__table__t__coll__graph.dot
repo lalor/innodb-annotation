@@ -1,0 +1,37 @@
+digraph "hash_table_t"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="hash_table_t",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" heaps\nheap" ,fontname="FreeSans"];
+  Node2 [label="mem_block_info_t",height=0.2,width=0.4,color="black",URL="$structmem__block__info__t.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" base" ,fontname="FreeSans"];
+  Node3 [label="ut_list_base\< mem_block_t \>",height=0.2,width=0.4,color="black",URL="$structut__list__base.html"];
+  Node2 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" end\nstart" ,fontname="FreeSans"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" list" ,fontname="FreeSans"];
+  Node4 [label="ut_list_node\< mem_block_t \>",height=0.2,width=0.4,color="black",URL="$structut__list__node.html"];
+  Node2 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" prev\nnext" ,fontname="FreeSans"];
+  Node5 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" array" ,fontname="FreeSans"];
+  Node5 [label="hash_cell_t",height=0.2,width=0.4,color="black",URL="$structhash__cell__t.html"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mutexes" ,fontname="FreeSans"];
+  Node6 [label="ib_mutex_t",height=0.2,width=0.4,color="black",URL="$structib__mutex__t.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" event" ,fontname="FreeSans"];
+  Node7 [label="os_event",height=0.2,width=0.4,color="red",URL="$structos__event.html"];
+  Node8 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" os_mutex" ,fontname="FreeSans"];
+  Node8 [label="os_fast_mutex_t",height=0.2,width=0.4,color="black",URL="$structos__fast__mutex__t.html"];
+  Node9 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" list" ,fontname="FreeSans"];
+  Node9 [label="ut_list_node\< ib_mutex_t \>",height=0.2,width=0.4,color="black",URL="$structut__list__node.html"];
+  Node6 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" prev\nnext" ,fontname="FreeSans"];
+  Node8 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" os_fast_mutex" ,fontname="FreeSans"];
+  Node10 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" rw_locks" ,fontname="FreeSans"];
+  Node10 [label="rw_lock_t",height=0.2,width=0.4,color="black",URL="$structrw__lock__t.html"];
+  Node7 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" event\nwait_ex_event" ,fontname="FreeSans"];
+  Node11 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" debug_list" ,fontname="FreeSans"];
+  Node11 [label="ut_list_base\< rw_lock\l_debug_t \>",height=0.2,width=0.4,color="red",URL="$structut__list__base.html"];
+  Node12 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" list" ,fontname="FreeSans"];
+  Node12 [label="ut_list_node\< rw_lock_t \>",height=0.2,width=0.4,color="black",URL="$structut__list__node.html"];
+  Node10 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" prev\nnext" ,fontname="FreeSans"];
+  Node6 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mutex" ,fontname="FreeSans"];
+}

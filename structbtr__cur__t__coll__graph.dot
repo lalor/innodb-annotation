@@ -1,0 +1,42 @@
+digraph "btr_cur_t"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="btr_cur_t",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" page_cur" ,fontname="FreeSans"];
+  Node2 [label="page_cur_t",height=0.2,width=0.4,color="black",URL="$structpage__cur__t.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" block" ,fontname="FreeSans"];
+  Node3 [label="buf_block_t",height=0.2,width=0.4,color="red",URL="$structbuf__block__t.html"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" index" ,fontname="FreeSans"];
+  Node4 [label="dict_index_t",height=0.2,width=0.4,color="red",URL="$structdict__index__t.html"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" table" ,fontname="FreeSans"];
+  Node5 [label="dict_table_t",height=0.2,width=0.4,color="red",URL="$structdict__table__t.html"];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" heap" ,fontname="FreeSans"];
+  Node6 [label="mem_block_info_t",height=0.2,width=0.4,color="red",URL="$structmem__block__info__t.html"];
+  Node6 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" heap" ,fontname="FreeSans"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" index" ,fontname="FreeSans"];
+  Node7 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" purge_node" ,fontname="FreeSans"];
+  Node7 [label="purge_node_t",height=0.2,width=0.4,color="black",URL="$structpurge__node__t.html"];
+  Node8 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" common" ,fontname="FreeSans"];
+  Node8 [label="que_common_t",height=0.2,width=0.4,color="red",URL="$structque__common__t.html"];
+  Node4 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" index" ,fontname="FreeSans"];
+  Node5 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" table" ,fontname="FreeSans"];
+  Node9 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" undo_recs" ,fontname="FreeSans"];
+  Node9 [label="ib_vector_t",height=0.2,width=0.4,color="red",URL="$structib__vector__t.html"];
+  Node6 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" heap" ,fontname="FreeSans"];
+  Node10 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" update" ,fontname="FreeSans"];
+  Node10 [label="upd_t",height=0.2,width=0.4,color="red",URL="$structupd__t.html"];
+  Node11 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" row\nref" ,fontname="FreeSans"];
+  Node11 [label="dtuple_t",height=0.2,width=0.4,color="red",URL="$structdtuple__t.html"];
+  Node12 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pcur" ,fontname="FreeSans"];
+  Node12 [label="btr_pcur_t",height=0.2,width=0.4,color="red",URL="$structbtr__pcur__t.html"];
+  Node1 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" btr_cur" ,fontname="FreeSans"];
+  Node3 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" block_when_stored" ,fontname="FreeSans"];
+  Node13 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" path_arr" ,fontname="FreeSans"];
+  Node13 [label="btr_path_t",height=0.2,width=0.4,color="black",URL="$structbtr__path__t.html"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" left_block" ,fontname="FreeSans"];
+  Node14 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" thr" ,fontname="FreeSans"];
+  Node14 [label="que_thr_t",height=0.2,width=0.4,color="red",URL="$structque__thr__t.html"];
+  Node8 -> Node14 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" common" ,fontname="FreeSans"];
+}

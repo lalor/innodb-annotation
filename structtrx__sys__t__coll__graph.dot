@@ -1,0 +1,23 @@
+digraph "trx_sys_t"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="trx_sys_t",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" view_list" ,fontname="FreeSans"];
+  Node2 [label="ut_list_base\< read\l_view_t \>",height=0.2,width=0.4,color="black",URL="$structut__list__base.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" end\nstart" ,fontname="FreeSans"];
+  Node3 [label="read_view_t",height=0.2,width=0.4,color="red",URL="$structread__view__t.html"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" rw_trx_list\nro_trx_list\nmysql_trx_list" ,fontname="FreeSans"];
+  Node4 [label="ut_list_base\< trx_t \>",height=0.2,width=0.4,color="black",URL="$structut__list__base.html"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" end\nstart" ,fontname="FreeSans"];
+  Node5 [label="trx_t",height=0.2,width=0.4,color="red",URL="$structtrx__t.html"];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" undo_mutex\nmutex" ,fontname="FreeSans"];
+  Node6 [label="ib_mutex_t",height=0.2,width=0.4,color="red",URL="$structib__mutex__t.html"];
+  Node7 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" rseg" ,fontname="FreeSans"];
+  Node7 [label="trx_rseg_t",height=0.2,width=0.4,color="red",URL="$structtrx__rseg__t.html"];
+  Node6 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mutex" ,fontname="FreeSans"];
+  Node3 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" global_read_view\nread_view" ,fontname="FreeSans"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mutex" ,fontname="FreeSans"];
+  Node7 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" rseg_array" ,fontname="FreeSans"];
+}

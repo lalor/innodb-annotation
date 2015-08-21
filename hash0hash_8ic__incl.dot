@@ -1,0 +1,16 @@
+digraph "include/hash0hash.ic"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="include/hash0hash.ic",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="ut0rnd.h",height=0.2,width=0.4,color="black",URL="$ut0rnd_8h.html"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="univ.i",height=0.2,width=0.4,color="red",URL="$univ_8i.html"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="ut0byte.h",height=0.2,width=0.4,color="red",URL="$ut0byte_8h.html"];
+  Node4 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="ut0rnd.ic",height=0.2,width=0.4,color="black",URL="$ut0rnd_8ic.html"];
+}

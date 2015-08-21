@@ -1,0 +1,18 @@
+digraph "include/pars0sym.ic"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="include/pars0sym.ic",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="include/pars0sym.h",height=0.2,width=0.4,color="black",URL="$pars0sym_8h.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="include/eval0eval.h",height=0.2,width=0.4,color="red",URL="$eval0eval_8h.html"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="include/eval0proc.h",height=0.2,width=0.4,color="black",URL="$eval0proc_8h.html"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="include/pars0opt.h",height=0.2,width=0.4,color="black",URL="$pars0opt_8h.html"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="include/row0sel.h",height=0.2,width=0.4,color="black",URL="$row0sel_8h.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+}

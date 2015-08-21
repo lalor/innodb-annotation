@@ -1,0 +1,32 @@
+digraph "include/buf0buf.ic"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="include/buf0buf.ic",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="include/buf0buf.h",height=0.2,width=0.4,color="black",URL="$buf0buf_8h.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="include/trx0sys.h",height=0.2,width=0.4,color="red",URL="$trx0sys_8h.html"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="include/mtr0log.ic",height=0.2,width=0.4,color="red",URL="$mtr0log_8ic.html"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="include/lock0lock.ic",height=0.2,width=0.4,color="red",URL="$lock0lock_8ic.html"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="include/buf0flu.ic",height=0.2,width=0.4,color="red",URL="$buf0flu_8ic.html"];
+  Node2 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="include/fut0fut.ic",height=0.2,width=0.4,color="red",URL="$fut0fut_8ic.html"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="include/fut0lst.ic",height=0.2,width=0.4,color="red",URL="$fut0lst_8ic.html"];
+  Node2 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="include/page0page.h",height=0.2,width=0.4,color="red",URL="$page0page_8h.html"];
+  Node9 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="include/btr0sea.ic",height=0.2,width=0.4,color="red",URL="$btr0sea_8ic.html"];
+  Node2 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node11 [label="include/buf0buddy.ic",height=0.2,width=0.4,color="red",URL="$buf0buddy_8ic.html"];
+  Node2 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node12 [label="include/dict0boot.h",height=0.2,width=0.4,color="black",URL="$dict0boot_8h.html"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+}

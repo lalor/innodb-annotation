@@ -1,0 +1,9 @@
+digraph "generic_indexer_t&lt; Type, N &gt;"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="generic_indexer_t\<\l Type, N \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="thread_id_indexer_t\l\< Type, N \>",height=0.2,width=0.4,color="black",URL="$structthread__id__indexer__t.html"];
+}

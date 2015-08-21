@@ -1,0 +1,17 @@
+digraph "mtr_t"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="mtr_t",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" memo\nlog" ,fontname="FreeSans"];
+  Node2 [label="dyn_block_t",height=0.2,width=0.4,color="black",URL="$structdyn__block__t.html",tooltip="A block in a dynamically allocated array. NOTE! Do not access the fields of the struct directly: the ..."];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" heap" ,fontname="FreeSans"];
+  Node3 [label="mem_block_info_t",height=0.2,width=0.4,color="red",URL="$structmem__block__info__t.html"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" list" ,fontname="FreeSans"];
+  Node4 [label="ut_list_node\< dyn_block_t \>",height=0.2,width=0.4,color="black",URL="$structut__list__node.html"];
+  Node2 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" prev\nnext" ,fontname="FreeSans"];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" base" ,fontname="FreeSans"];
+  Node5 [label="ut_list_base\< dyn_block_t \>",height=0.2,width=0.4,color="black",URL="$structut__list__base.html"];
+  Node2 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" end\nstart" ,fontname="FreeSans"];
+}

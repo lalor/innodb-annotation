@@ -1,0 +1,15 @@
+digraph "fts_ast_list_t"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="fts_ast_list_t",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" head\ntail" ,fontname="FreeSans"];
+  Node2 [label="fts_ast_node_t",height=0.2,width=0.4,color="black",URL="$structfts__ast__node__t.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" term" ,fontname="FreeSans"];
+  Node3 [label="fts_ast_term_t",height=0.2,width=0.4,color="red",URL="$structfts__ast__term__t.html"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" text" ,fontname="FreeSans"];
+  Node4 [label="fts_ast_text_t",height=0.2,width=0.4,color="red",URL="$structfts__ast__text__t.html"];
+  Node2 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" next\nnext_alloc" ,fontname="FreeSans"];
+  Node1 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" list" ,fontname="FreeSans"];
+}

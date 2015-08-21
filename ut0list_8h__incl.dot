@@ -1,0 +1,39 @@
+digraph "include/ut0list.h"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="include/ut0list.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="mem0mem.h",height=0.2,width=0.4,color="black",URL="$mem0mem_8h.html"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="univ.i",height=0.2,width=0.4,color="red",URL="$univ_8i.html"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="ut0mem.h",height=0.2,width=0.4,color="red",URL="$ut0mem_8h.html"];
+  Node4 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="ut0byte.h",height=0.2,width=0.4,color="red",URL="$ut0byte_8h.html"];
+  Node5 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="ut0rnd.h",height=0.2,width=0.4,color="red",URL="$ut0rnd_8h.html"];
+  Node6 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="sync0sync.h",height=0.2,width=0.4,color="red",URL="$sync0sync_8h.html"];
+  Node7 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="ut0lst.h",height=0.2,width=0.4,color="black",URL="$ut0lst_8h.html"];
+  Node8 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="mach0data.h",height=0.2,width=0.4,color="red",URL="$mach0data_8h.html"];
+  Node9 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="mem0dbg.h",height=0.2,width=0.4,color="black",URL="$mem0dbg_8h.html"];
+  Node2 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node11 [label="mem0mem.ic",height=0.2,width=0.4,color="red",URL="$mem0mem_8ic.html"];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node12 [label="ut0list.ic",height=0.2,width=0.4,color="black",URL="$ut0list_8ic.html"];
+}

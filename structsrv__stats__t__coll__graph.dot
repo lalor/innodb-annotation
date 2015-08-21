@@ -1,0 +1,28 @@
+digraph "srv_stats_t"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="srv_stats_t",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" buf_pool_flushed\ndata_read\nlog_write_requests\nbuf_pool_reads\nbuf_pool_wait_free\nlog_writes\nn_lock_wait_count\ndata_written\nlog_waits\ndblwr_pages_written\n..." ,fontname="FreeSans"];
+  Node2 [label="ib_counter_t\< ulint,\l 1, single_indexer_t \>",height=0.2,width=0.4,color="black",URL="$classib__counter__t.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_policy" ,fontname="FreeSans"];
+  Node3 [label="single_indexer_t\< ulint, N \>",height=0.2,width=0.4,color="black",URL="$structsingle__indexer__t.html"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" n_lock_wait_time" ,fontname="FreeSans"];
+  Node4 [label="ib_counter_t\< ib_int64\l_t, 1, single_indexer_t \>",height=0.2,width=0.4,color="black",URL="$classib__counter__t.html"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_policy" ,fontname="FreeSans"];
+  Node5 [label="single_indexer_t\< ib\l_int64_t, N \>",height=0.2,width=0.4,color="black",URL="$structsingle__indexer__t.html"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" n_rows_inserted\nn_rows_updated\nn_rows_read\nn_rows_deleted" ,fontname="FreeSans"];
+  Node6 [label="ib_counter_t\< ulint,\l 64 \>",height=0.2,width=0.4,color="black",URL="$classib__counter__t.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_policy" ,fontname="FreeSans"];
+  Node7 [label="thread_id_indexer_t\l\< ulint, N \>",height=0.2,width=0.4,color="red",URL="$structthread__id__indexer__t.html"];
+  Node8 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" os_log_written" ,fontname="FreeSans"];
+  Node8 [label="ib_counter_t\< lsn_t,\l 1, single_indexer_t \>",height=0.2,width=0.4,color="black",URL="$classib__counter__t.html"];
+  Node9 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_policy" ,fontname="FreeSans"];
+  Node9 [label="single_indexer_t\< lsn\l_t, N \>",height=0.2,width=0.4,color="black",URL="$structsingle__indexer__t.html"];
+  Node10 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" n_lock_wait_current\l_count\nos_log_pending_writes" ,fontname="FreeSans"];
+  Node10 [label="ib_counter_t\< lint,\l 1, single_indexer_t \>",height=0.2,width=0.4,color="black",URL="$classib__counter__t.html"];
+  Node11 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" m_policy" ,fontname="FreeSans"];
+  Node11 [label="single_indexer_t\< lint, N \>",height=0.2,width=0.4,color="black",URL="$structsingle__indexer__t.html"];
+}

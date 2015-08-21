@@ -1,0 +1,18 @@
+digraph "ib_mutex_t"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="ib_mutex_t",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" event" ,fontname="FreeSans"];
+  Node2 [label="os_event",height=0.2,width=0.4,color="black",URL="$structos__event.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" os_event_list" ,fontname="FreeSans"];
+  Node3 [label="ut_list_node\< os_event_t \>",height=0.2,width=0.4,color="black",URL="$structut__list__node.html"];
+  Node2 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" prev\nnext" ,fontname="FreeSans"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" os_mutex" ,fontname="FreeSans"];
+  Node4 [label="os_fast_mutex_t",height=0.2,width=0.4,color="black",URL="$structos__fast__mutex__t.html"];
+  Node5 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" list" ,fontname="FreeSans"];
+  Node5 [label="ut_list_node\< ib_mutex_t \>",height=0.2,width=0.4,color="black",URL="$structut__list__node.html"];
+  Node1 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" prev\nnext" ,fontname="FreeSans"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" os_fast_mutex" ,fontname="FreeSans"];
+}

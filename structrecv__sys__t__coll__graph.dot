@@ -1,0 +1,22 @@
+digraph "recv_sys_t"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="recv_sys_t",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" addr_hash" ,fontname="FreeSans"];
+  Node2 [label="hash_table_t",height=0.2,width=0.4,color="black",URL="$structhash__table__t.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" heaps\nheap" ,fontname="FreeSans"];
+  Node3 [label="mem_block_info_t",height=0.2,width=0.4,color="red",URL="$structmem__block__info__t.html"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" array" ,fontname="FreeSans"];
+  Node4 [label="hash_cell_t",height=0.2,width=0.4,color="black",URL="$structhash__cell__t.html"];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mutexes" ,fontname="FreeSans"];
+  Node5 [label="ib_mutex_t",height=0.2,width=0.4,color="red",URL="$structib__mutex__t.html"];
+  Node6 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" rw_locks" ,fontname="FreeSans"];
+  Node6 [label="rw_lock_t",height=0.2,width=0.4,color="red",URL="$structrw__lock__t.html"];
+  Node5 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mutex" ,fontname="FreeSans"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" heap" ,fontname="FreeSans"];
+  Node5 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mutex\nwriter_mutex" ,fontname="FreeSans"];
+  Node7 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" dblwr" ,fontname="FreeSans"];
+  Node7 [label="recv_dblwr_t",height=0.2,width=0.4,color="black",URL="$structrecv__dblwr__t.html"];
+}

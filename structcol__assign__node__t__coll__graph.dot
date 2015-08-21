@@ -1,0 +1,28 @@
+digraph "col_assign_node_t"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="col_assign_node_t",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" common" ,fontname="FreeSans"];
+  Node2 [label="que_common_t",height=0.2,width=0.4,color="black",URL="$structque__common__t.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" val" ,fontname="FreeSans"];
+  Node3 [label="dfield_t",height=0.2,width=0.4,color="red",URL="$structdfield__t.html"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" col" ,fontname="FreeSans"];
+  Node4 [label="sym_node_t",height=0.2,width=0.4,color="black",URL="$structsym__node__t.html"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" sym_table" ,fontname="FreeSans"];
+  Node5 [label="sym_tab_t",height=0.2,width=0.4,color="red",URL="$structsym__tab__t.html"];
+  Node2 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" common" ,fontname="FreeSans"];
+  Node6 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" table" ,fontname="FreeSans"];
+  Node6 [label="dict_table_t",height=0.2,width=0.4,color="red",URL="$structdict__table__t.html"];
+  Node7 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" cursor_def" ,fontname="FreeSans"];
+  Node7 [label="sel_node_t",height=0.2,width=0.4,color="red",URL="$structsel__node__t.html"];
+  Node2 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" common" ,fontname="FreeSans"];
+  Node4 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" explicit_cursor\ntable_list\ninto_list" ,fontname="FreeSans"];
+  Node8 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" prefetch_buf" ,fontname="FreeSans"];
+  Node8 [label="sel_buf_t",height=0.2,width=0.4,color="black",URL="$structsel__buf__t.html"];
+  Node9 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" col_var_list\nsym_list" ,fontname="FreeSans"];
+  Node9 [label="ut_list_node\< sym_node_t \>",height=0.2,width=0.4,color="black",URL="$structut__list__node.html"];
+  Node4 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" prev\nnext" ,fontname="FreeSans"];
+  Node4 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" indirection\nlike_node\nalias" ,fontname="FreeSans"];
+}

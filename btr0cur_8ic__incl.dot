@@ -1,0 +1,32 @@
+digraph "include/btr0cur.ic"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="include/btr0cur.ic",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="btr0btr.h",height=0.2,width=0.4,color="black",URL="$btr0btr_8h.html"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="univ.i",height=0.2,width=0.4,color="red",URL="$univ_8i.html"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="dict0dict.h",height=0.2,width=0.4,color="red",URL="$dict0dict_8h.html"];
+  Node4 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="data0data.h",height=0.2,width=0.4,color="red",URL="$data0data_8h.html"];
+  Node5 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="page0cur.h",height=0.2,width=0.4,color="red",URL="$page0cur_8h.html"];
+  Node6 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="mtr0mtr.h",height=0.2,width=0.4,color="red",URL="$mtr0mtr_8h.html"];
+  Node7 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="btr0types.h",height=0.2,width=0.4,color="red",URL="$btr0types_8h.html"];
+  Node8 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="btr0btr.ic",height=0.2,width=0.4,color="red",URL="$btr0btr_8ic.html"];
+  Node9 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+}

@@ -1,0 +1,15 @@
+digraph "include/row0row.ic"
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="include/row0row.ic",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="include/row0row.h",height=0.2,width=0.4,color="black",URL="$row0row_8h.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="include/lock0lock.ic",height=0.2,width=0.4,color="red",URL="$lock0lock_8ic.html"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="include/row0vers.ic",height=0.2,width=0.4,color="red",URL="$row0vers_8ic.html"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="include/row0upd.ic",height=0.2,width=0.4,color="red",URL="$row0upd_8ic.html"];
+}
